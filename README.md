@@ -56,6 +56,7 @@ npx skills add lucian55/human-skill
 | [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 女娲蒸馏：内部真实、双速创作、极简×细节 |
 | [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 女娲蒸馏：改变品味、中国风作概念、混搭统一 |
 | [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 女娲蒸馏：保国体叙事结构（非武术背书） |
+| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 女娲蒸馏：《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
 | [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 女娲蒸馏：七字诀、三大铁律、复盘与长期叙事 |
 | [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 女娲蒸馏：理想主义张力、表达克制与访谈伦理 |
 
@@ -111,6 +112,19 @@ npx skills add lucian55/human-skill
 写一段保国体口播吐槽需求方偷袭排期
 30 秒短视频开场：大意了没有闪 + 好自为之
 把线上 bug 甩锅改成「年轻人不讲测试」荒诞版（勿映射真人）
+```
+
+### 范德彪.skill
+
+> 适用于《马大帅》范德彪（彪哥）式**喜剧台词**、东北市井江湖梗、吹牛打脸短视频脚本等；**虚构角色**，非范伟本人。  
+> 详见 [`fandebiao-skill/README.md`](./fandebiao-skill/README.md)。
+
+#### 使用示例
+
+```text
+用范德彪视角写：项目黄了但辽北著名狠人不能输嘴
+把周报被怼改成「按套路打」「欧了」混搭的荒诞独白
+论成败人生豪迈版：相亲失败后的彪哥式自我解围
 ```
 
 ### 雷军.skill
