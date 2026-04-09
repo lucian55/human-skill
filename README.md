@@ -1,4 +1,4 @@
-# humen-skill
+# human-skill
 
 一个用于生产「名人 `.skill`」的仓库。
 
@@ -6,7 +6,7 @@
 
 ## 已收录人物
 
-[张雪峰](./zhangxuefeng-skill/README.md) / [蔡徐坤](./caixukun-skill/README.md) / [周杰伦](./zhoujielun-skill/README.md) / [马保国](./mabaoguo-skill/README.md)
+[张雪峰](./zhangxuefeng-skill/README.md) / [蔡徐坤](./caixukun-skill/README.md) / [周杰伦](./zhoujielun-skill/README.md) / [马保国](./mabaoguo-skill/README.md) / [雷军](./leijun-skill/README.md)
 
 ### 张雪峰
 
@@ -24,12 +24,16 @@
 
 适用于夸张叙事、反差幽默、互联网梗体表达、自我辩护式发言、短视频人物口播风格等问题。
 
+### 雷军
+
+适用于创业方法论、产品定义、爆品策略、用户口碑、效率优化、商业演讲与管理复盘等问题。
+
 ## 安装方式
 
 安装整个仓库：
 
 ```bash
-npx skills add lucian55/humen-skill
+npx skills add lucian55/human-skill
 ```
 
 安装后，在支持 `.skill` 的环境里直接用人物名字触发即可。
@@ -78,6 +82,14 @@ npx skills add lucian55/humen-skill
 用马保国风格写一段吐槽老板的口播
 帮我写个保国体短视频开场
 把这段办公室冲突改写成“不讲武德”风格
+```
+
+### 使用 `leijun-skill`
+
+```text
+用雷军的视角分析这个创业方向值不值得做
+如果按雷军的方法论做一款爆品，第一步该怎么想
+帮我用雷军式演讲风格讲清楚这套产品逻辑
 ```
 
 ## 设计原则
