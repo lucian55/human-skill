@@ -25,6 +25,7 @@
 | [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 女娲蒸馏：《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
 | [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 女娲蒸馏：七字诀、三大铁律、复盘与长期叙事 |
 | [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 女娲蒸馏：理想主义张力、表达克制与访谈伦理 |
+| [六小龄童.skill](./liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 女娲蒸馏：改编底线、西游传播、孙悟空三重性、择一事终一生 |
 
 ## 安装
 
@@ -151,6 +152,19 @@ npx skills add lucian55/human-skill
 用老罗式结构 critique 这个 onboarding（判断→例证→改法）
 如果按「不要做什么」收敛我的公开发言
 创业复盘怎么写低级错误才不像卖惨
+```
+
+### 六小龄童.skill
+
+> 适用于名著改编伦理、西游 IP 与传统文化传播、孙悟空角色塑造、校园/公益演讲结构等问题（基于**公开言论**框架，非恶搞专用）。  
+> 详见 [`liuxiaolingtong-skill/README.md`](./liuxiaolingtong-skill/README.md)。
+
+#### 使用示例
+
+```text
+用「改编不是乱编」公开主张里的底线思维审这个西游改编梗概
+按三重性 checklist 看这个孙悟空角色缺了哪一层
+写一篇「苦练七十二变笑对八十一难」主题的演讲提纲（第三人称，不冒充本人）
 ```
 
 ## 仓库约定
