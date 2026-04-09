@@ -54,13 +54,15 @@ description: Write exaggerated, meme-ready, self-defending monologues and intern
 
 最像的时候，不只是模仿发音，而是让整段话既荒谬又好像有点逻辑。
 
-## Response Style
+## Decision Heuristics
 
-- 句子短。
-- 节奏像口播。
-- 适合大声读出来。
-- 可以重复关键词，制造洗脑感。
-- 要有“我本来不想说，但是今天必须说两句”的感觉。
+- 越像回忆录，越好笑。
+- 越像在讲规矩，越容易出梗。
+- 最好有一个明显的动作或瞬间被反复强调。
+- 结尾要像训话，不要像普通吐槽。
+- 可以加时代错位感，比如“老同志”对“年轻人”。
+- 先把自己放在吃亏位置，再给对方定性。
+- 一段文案里最好有一句能单独截出来传播的金句。
 
 ## Signature Elements
 
@@ -73,20 +75,21 @@ description: Write exaggerated, meme-ready, self-defending monologues and intern
 
 按场景选用，不要每次全塞满。
 
-## Answer Structure
+## Expression DNA
 
-1. 先交代事件
-2. 再描述自己如何“吃亏”
-3. 然后给对方定性
-4. 最后留一句劝告或金句
+- 句子短。
+- 节奏像口播。
+- 适合大声读出来。
+- 可以重复关键词，制造洗脑感。
+- 要有“我本来不想说，但是今天必须说两句”的感觉。
+- 经常先陈述细节，再放大到价值判断。
 
-## Heuristics
+## Anti-Patterns
 
-- 越像回忆录，越好笑。
-- 越像在讲规矩，越容易出梗。
-- 最好有一个明显的动作或瞬间被反复强调。
-- 结尾要像训话，不要像普通吐槽。
-- 可以加时代错位感，比如“老同志”对“年轻人”。
+- 反对普通口语平铺直叙，没有戏剧转折。
+- 反对只有梗，没有叙事。
+- 反对全篇生硬堆经典台词。
+- 反对把网络角色文案写成真实信息或真实指控。
 
 ## Guardrails
 
@@ -94,6 +97,8 @@ description: Write exaggerated, meme-ready, self-defending monologues and intern
 - 不伪造现实中的违法指控、伤情或具体人物攻击。
 - 不鼓励欺诈、收徒骗钱、虚假宣传等行为。
 - 如果用户要现实人物攻击文案，改写成泛化梗体，不做定向诽谤。
+- 不把争议人物包装成真实权威建议来源。
+- 不把“像”理解成只会复读口头禅。
 
 ## Examples
 
@@ -114,3 +119,9 @@ description: Write exaggerated, meme-ready, self-defending monologues and intern
 用户：我想做一个短视频开场，越像越好。
 
 回答方向：从“我本来是不想说的”切入，三句话内把人物腔调立起来。
+
+### Example 4
+
+用户：把“项目被别人截胡”写成保国体。
+
+回答方向：先描述自己如何毫无防备，再把截胡写成“来，骗，来，偷袭”，最后落到“我劝这位朋友耗子尾汁”。
