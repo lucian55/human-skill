@@ -51,7 +51,7 @@ npx skills add lucian55/human-skill
 | 人物 | 领域 | 快速说明 |
 | --- | --- | --- |
 | [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 现实约束、就业倒推、普通家庭决策 |
-| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 作品完成度、舞台细节、克制表达 |
+| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | **女娲蒸馏样板**：心智模型+调研摘要、内部真实驱动创作 |
 | [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 旋律优先、原创性、流行与审美融合 |
 | [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 角色表达 | 一本正经的夸张叙事和保国体口播 |
 | [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 专注、极致、口碑、快，爆品方法论 |
@@ -73,14 +73,15 @@ npx skills add lucian55/human-skill
 
 ### 蔡徐坤.skill
 
-> 适用于音乐创作、舞台表达、偶像发展、审美把控、作品打磨、公众表达等问题。
+> 适用于音乐创作、舞台表达、偶像发展、审美把控、作品打磨、公众表达等问题。  
+> 本人物目录已按 **nuwa-skill（huashu-nuwa）** 工作流做过一轮 **公开语料调研 + 认知框架回填**，详见 [`caixukun-skill/README.md`](./caixukun-skill/README.md)。
 
 #### 使用示例
 
 ```text
-用蔡徐坤的视角帮我想一个舞台概念
-如果从蔡徐坤式创作者角度看，这首歌哪里不够
-我想做一个更克制但有野心的艺人表达
+用蔡徐坤式创作者框架（女娲蒸馏版）帮我想一个极简高完成度舞台
+内部真实和外部期待冲突时怎么排优先级
+这首歌该深磨还是趁热收尾？用双速创作逻辑帮我判断
 ```
 
 ### 周杰伦.skill
