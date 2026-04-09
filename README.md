@@ -4,7 +4,7 @@
 
 `human-skill` 是一个人物认知框架仓库。
 
-这里的每个子目录对应一个独立人物 `.skill`，含 `SKILL.md`、`README.md`，并推荐附带 `references/research/nuwa-phase1-synthesis.md`（公开语料摘录，便于追溯）。**人物 skill 的编写曾参考开源项目 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的多源调研思路**；除根目录本说明外，子目录正文不再重复提及该工具。
+每个人物对应一个独立 `*-skill/` 目录，按**语料性质**归在 [`real-people/`](./real-people/README.md)、[`fiction-tv/`](./fiction-tv/README.md) 或 [`animation/`](./animation/README.md) 下；内含 `SKILL.md`、`README.md`，并推荐附带 `references/research/nuwa-phase1-synthesis.md`（公开语料摘录，便于追溯）。**人物 skill 的编写曾参考开源项目 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的多源调研思路**；除根目录本说明外，子目录正文不再重复提及该工具。
 
 目标不是复读名人语录，也不是做表层角色扮演，而是尽量提炼这个人物在公开材料里反复出现的：
 
@@ -14,20 +14,40 @@
 - 什么会反对
 - 什么边界不会越过
 
+## 目录分类
+
+| 分类 | 目录 | 说明 |
+| --- | --- | --- |
+| **真实人物** | [`real-people/`](./real-people/README.md) | 基于现实中公众人物的公开言论、履历与活动 |
+| **影视虚构** | [`fiction-tv/`](./fiction-tv/README.md) | 真人影视剧中的虚构角色 |
+| **动画虚构** | [`animation/`](./animation/README.md) | 动画 / 系列片中的虚构角色 |
+
 ## 已收录人物
+
+### 真实人物（`real-people/`）
 
 | 人物 | 领域 | 快速说明 |
 | --- | --- | --- |
-| [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
-| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 内部真实、双速创作、极简×细节 |
-| [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 改变品味、中国风作概念、混搭统一 |
-| [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 保国体叙事结构（非武术背书） |
-| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
-| [懒羊羊.skill](./lanyangyang-skill/README.md) | 子供向动画 / 喜剧人设 | 《喜羊羊与灰太狼》懒羊羊，低能耗动机与反差喜剧（虚构角色） |
-| [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 七字诀、三大铁律、复盘与长期叙事 |
-| [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 理想主义张力、表达克制与访谈伦理 |
-| [六小龄童.skill](./liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 改编底线、西游传播、孙悟空三重性、择一事终一生 |
-| [卢本伟.skill](./lubenwei-skill/README.md) | 电竞 / 游戏直播（清洁版） | 前 LOL 职业/主播表达节奏；**禁止**辱骂教唆、开挂、冲人；合规红线见 README |
+| [张雪峰.skill](./real-people/zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
+| [蔡徐坤.skill](./real-people/caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 内部真实、双速创作、极简×细节 |
+| [周杰伦.skill](./real-people/zhoujielun-skill/README.md) | 流行音乐 / 创作 | 改变品味、中国风作概念、混搭统一 |
+| [马保国.skill](./real-people/mabaoguo-skill/README.md) | 网络梗体 / 模因 | 保国体叙事结构（非武术背书） |
+| [雷军.skill](./real-people/leijun-skill/README.md) | 创业 / 产品 / 商业 | 七字诀、三大铁律、复盘与长期叙事 |
+| [罗永浩.skill](./real-people/luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 理想主义张力、表达克制与访谈伦理 |
+| [六小龄童.skill](./real-people/liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 改编底线、西游传播、孙悟空三重性、择一事终一生 |
+| [卢本伟.skill](./real-people/lubenwei-skill/README.md) | 电竞 / 游戏直播（清洁版） | 前 LOL 职业/主播表达节奏；**禁止**辱骂教唆、开挂、冲人；合规红线见 README |
+
+### 影视虚构（`fiction-tv/`）
+
+| 人物 | 领域 | 快速说明 |
+| --- | --- | --- |
+| [范德彪.skill](./fiction-tv/fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
+
+### 动画虚构（`animation/`）
+
+| 人物 | 领域 | 快速说明 |
+| --- | --- | --- |
+| [懒羊羊.skill](./animation/lanyangyang-skill/README.md) | 子供向动画 / 喜剧人设 | 《喜羊羊与灰太狼》懒羊羊，低能耗动机与反差喜剧（虚构角色） |
 
 ## 安装
 
@@ -68,7 +88,7 @@ npx skills add lucian55/human-skill
 ### 张雪峰.skill
 
 > 适用于高考志愿、考研、专业选择、职业方向、普通家庭决策等问题。  
-> **张雪峰老师已于 2026-03-24 逝世**，详见 [`zhangxuefeng-skill/README.md`](./zhangxuefeng-skill/README.md)；skill 为其公开方法论遗产。
+> **张雪峰老师已于 2026-03-24 逝世**，详见 [`zhangxuefeng-skill/README.md`](./real-people/zhangxuefeng-skill/README.md)；skill 为其公开方法论遗产。
 
 #### 使用示例
 
@@ -81,7 +101,7 @@ npx skills add lucian55/human-skill
 ### 蔡徐坤.skill
 
 > 适用于音乐创作、舞台表达、偶像发展、审美把控、作品打磨、公众表达等问题。  
-> 详见 [`caixukun-skill/README.md`](./caixukun-skill/README.md)。
+> 详见 [`caixukun-skill/README.md`](./real-people/caixukun-skill/README.md)。
 
 #### 使用示例
 
@@ -94,7 +114,7 @@ npx skills add lucian55/human-skill
 ### 周杰伦.skill
 
 > 适用于流行音乐创作、旋律与编曲、概念专辑、舞台与视觉表达、跨艺术融合、个人风格建立等问题。  
-> 详见 [`zhoujielun-skill/README.md`](./zhoujielun-skill/README.md)。
+> 详见 [`zhoujielun-skill/README.md`](./real-people/zhoujielun-skill/README.md)。
 
 #### 使用示例
 
@@ -107,7 +127,7 @@ npx skills add lucian55/human-skill
 ### 马保国.skill
 
 > 适用于夸张叙事、反差幽默、互联网梗体表达、自我辩护式发言、短视频人物口播风格等问题（**戏仿模因，非纪实**）。  
-> 详见 [`mabaoguo-skill/README.md`](./mabaoguo-skill/README.md)。
+> 详见 [`mabaoguo-skill/README.md`](./real-people/mabaoguo-skill/README.md)。
 
 #### 使用示例
 
@@ -120,7 +140,7 @@ npx skills add lucian55/human-skill
 ### 范德彪.skill
 
 > 适用于《马大帅》范德彪（彪哥）式**喜剧台词**、东北市井江湖梗、吹牛打脸短视频脚本等；**虚构角色**，非范伟本人。  
-> 详见 [`fandebiao-skill/README.md`](./fandebiao-skill/README.md)。
+> 详见 [`fandebiao-skill/README.md`](./fiction-tv/fandebiao-skill/README.md)。
 
 #### 使用示例
 
@@ -133,7 +153,7 @@ npx skills add lucian55/human-skill
 ### 懒羊羊.skill
 
 > 适用于《喜羊羊与灰太狼》懒羊羊式**全年龄安全**台词、推脱—反转节奏、与靠谱队友反差、儿童向「小懒惰→小成长」弧光等；**虚构动画角色**，非配音演员本人。  
-> 详见 [`lanyangyang-skill/README.md`](./lanyangyang-skill/README.md)。
+> 详见 [`lanyangyang-skill/README.md`](./animation/lanyangyang-skill/README.md)。
 
 #### 使用示例
 
@@ -147,7 +167,7 @@ npx skills add lucian55/human-skill
 ### 雷军.skill
 
 > 适用于创业方法论、产品定义、爆品策略、用户口碑、效率优化、商业演讲与管理复盘等问题。  
-> 详见 [`leijun-skill/README.md`](./leijun-skill/README.md)。
+> 详见 [`leijun-skill/README.md`](./real-people/leijun-skill/README.md)。
 
 #### 使用示例
 
@@ -160,7 +180,7 @@ npx skills add lucian55/human-skill
 ### 罗永浩.skill
 
 > 适用于产品经理视角、创业复盘、品牌表达、公众发言分寸、理想主义与商业现实的平衡等问题。  
-> 详见 [`luoyonghao-skill/README.md`](./luoyonghao-skill/README.md)。
+> 详见 [`luoyonghao-skill/README.md`](./real-people/luoyonghao-skill/README.md)。
 
 #### 使用示例
 
@@ -173,7 +193,7 @@ npx skills add lucian55/human-skill
 ### 六小龄童.skill
 
 > 适用于名著改编伦理、西游 IP 与传统文化传播、孙悟空角色塑造、校园/公益演讲结构等问题（基于**公开言论**框架，非恶搞专用）。  
-> 详见 [`liuxiaolingtong-skill/README.md`](./liuxiaolingtong-skill/README.md)。
+> 详见 [`liuxiaolingtong-skill/README.md`](./real-people/liuxiaolingtong-skill/README.md)。
 
 #### 使用示例
 
@@ -186,7 +206,7 @@ npx skills add lucian55/human-skill
 ### 卢本伟.skill
 
 > 适用于**合规**游戏解说口播、直播式叙事节奏、退役选手视角复盘、主播影响力与红线讨论；基于前《英雄联盟》职业选手与主播的**公开形象**抽象，**不**鼓励辱骂教唆、开挂或规避封禁。  
-> 详见 [`lubenwei-skill/README.md`](./lubenwei-skill/README.md)。
+> 详见 [`lubenwei-skill/README.md`](./real-people/lubenwei-skill/README.md)。
 
 #### 使用示例
 
@@ -198,7 +218,7 @@ npx skills add lucian55/human-skill
 
 ## 仓库约定
 
-每个名人 skill 目录至少包含：
+每个名人 skill 目录（位于 `real-people/`、`fiction-tv/` 或 `animation/` 下）至少包含：
 
 - `SKILL.md`：给 Agent 使用的技能文件
 - `README.md`：给人看的说明文档
@@ -206,18 +226,20 @@ npx skills add lucian55/human-skill
 推荐结构：
 
 ```text
-person-skill/
-├── SKILL.md
-├── README.md
-└── references/research/nuwa-phase1-synthesis.md   # 公开语料调研摘要（推荐）
+real-people/                    # 或 fiction-tv/、animation/
+└── person-skill/
+    ├── SKILL.md
+    ├── README.md
+    └── references/research/nuwa-phase1-synthesis.md   # 公开语料调研摘要（推荐）
 ```
 
 ## 重做标准
 
 后续新增或重做人物时，默认遵循这些原则：
 
-1. 不做简单口头禅模仿，优先提炼认知框架。
-2. 不把未经证实的私生活、争议和传言写成事实。
-3. 每个人物都要有“表达 DNA”也要有“诚实边界”。
-4. README 要能回答“这个人物适合解决什么问题”和“怎么触发”。
-5. SKILL.md 要能回答“先问什么、怎么判断、什么不做”。
+1. **归类**：真实公众人物 → `real-people/`；真人剧影虚构角色 → `fiction-tv/`；动画虚构角色 → `animation/`。  
+2. 不做简单口头禅模仿，优先提炼认知框架。
+3. 不把未经证实的私生活、争议和传言写成事实。
+4. 每个人物都要有“表达 DNA”也要有“诚实边界”。
+5. README 要能回答“这个人物适合解决什么问题”和“怎么触发”。
+6. SKILL.md 要能回答“先问什么、怎么判断、什么不做”。

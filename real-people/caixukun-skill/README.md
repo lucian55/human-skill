@@ -53,7 +53,7 @@
 npx skills add lucian55/human-skill
 ```
 
-在 Cursor 中启用后，用自然语言描述创作或舞台问题即可；若希望模型读取调研摘要，可提及 `caixukun-skill/references/research/`。
+在 Cursor 中启用后，用自然语言描述创作或舞台问题即可；若希望模型读取调研摘要，可提及 `real-people/caixukun-skill/references/research/`。
 
 ## 延伸阅读（一手线索）
 
