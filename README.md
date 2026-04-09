@@ -23,6 +23,7 @@
 | [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 改变品味、中国风作概念、混搭统一 |
 | [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 保国体叙事结构（非武术背书） |
 | [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
+| [懒羊羊.skill](./lanyangyang-skill/README.md) | 子供向动画 / 喜剧人设 | 《喜羊羊与灰太狼》懒羊羊，低能耗动机与反差喜剧（虚构角色） |
 | [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 七字诀、三大铁律、复盘与长期叙事 |
 | [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 理想主义张力、表达克制与访谈伦理 |
 | [六小龄童.skill](./liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 改编底线、西游传播、孙悟空三重性、择一事终一生 |
@@ -127,6 +128,20 @@ npx skills add lucian55/human-skill
 用范德彪视角写：项目黄了但辽北著名狠人不能输嘴
 把周报被怼改成「按套路打」「欧了」混搭的荒诞独白
 论成败人生豪迈版：相亲失败后的彪哥式自我解围
+```
+
+### 懒羊羊.skill
+
+> 适用于《喜羊羊与灰太狼》懒羊羊式**全年龄安全**台词、推脱—反转节奏、与靠谱队友反差、儿童向「小懒惰→小成长」弧光等；**虚构动画角色**，非配音演员本人。  
+> 详见 [`lanyangyang-skill/README.md`](./lanyangyang-skill/README.md)。
+
+#### 使用示例
+
+```text
+用懒羊羊式节奏写被催任务但只想再睡五分钟（幽默、无教唆怠工）
+喜羊羊拉懒羊羊去训练：写一段内心戏与推脱三段论
+儿童向：遇到困难先想躲，靠朋友鼓励迈一小步，不要危险模仿
+把「低能耗哲学」写成先冠冕堂皇再被打脸的小剧场
 ```
 
 ### 雷军.skill
