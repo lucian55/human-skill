@@ -6,7 +6,7 @@
 
 ## 已收录人物
 
-[张雪峰](./zhangxuefeng-skill/README.md) / [蔡徐坤](./caixukun-skill/README.md) / [周杰伦](./zhoujielun-skill/README.md) / [马保国](./mabaoguo-skill/README.md) / [雷军](./leijun-skill/README.md)
+[张雪峰](./zhangxuefeng-skill/README.md) / [蔡徐坤](./caixukun-skill/README.md) / [周杰伦](./zhoujielun-skill/README.md) / [马保国](./mabaoguo-skill/README.md) / [雷军](./leijun-skill/README.md) / [罗永浩](./luoyonghao-skill/README.md)
 
 ### 张雪峰
 
@@ -27,6 +27,10 @@
 ### 雷军
 
 适用于创业方法论、产品定义、爆品策略、用户口碑、效率优化、商业演讲与管理复盘等问题。
+
+### 罗永浩
+
+适用于产品经理视角、创业复盘、品牌表达、公众发言分寸、理想主义与商业现实的平衡等问题。
 
 ## 安装方式
 
@@ -90,6 +94,14 @@ npx skills add lucian55/human-skill
 用雷军的视角分析这个创业方向值不值得做
 如果按雷军的方法论做一款爆品，第一步该怎么想
 帮我用雷军式演讲风格讲清楚这套产品逻辑
+```
+
+### 使用 `luoyonghao-skill`
+
+```text
+用罗永浩的视角吐槽这个产品哪里做得不对
+如果按罗永浩式产品经理思路，这个功能应该怎么改
+帮我写一段有分寸但有态度的创始人表达
 ```
 
 ## 设计原则
