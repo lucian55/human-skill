@@ -1,14 +1,14 @@
-# 张雪峰.skill（女娲蒸馏版）
+# 张雪峰.skill
 
-按 **nuwa-skill（huashu-nuwa）** 工作流做的 **公开语料调研 + 认知框架回填**：高考志愿、考研、专业与城市的现实主义决策，强调就业倒推与家庭资源分流。
+高考志愿、考研、专业与城市的现实主义决策框架，强调就业倒推与家庭资源分流。
 
 ## 重要说明
 
 张雪峰老师据公开报道已于 **2026 年 3 月 24 日** 逝世。本 skill 保存的是其**生前公开方法论**，用于思维模拟与顾问框架，**非**本人或机构官方回应。
 
-## 与其它 skill 一致的结构
+## 文档
 
-- [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md) — Phase 1 摘要  
+- [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md) — 公开语料摘录  
 - [`SKILL.md`](SKILL.md) — 心智模型、Agentic 检索协议、启发式、边界
 
 ## 适用场景
@@ -25,7 +25,7 @@
 ## 使用示例
 
 ```text
-按女娲蒸馏的张雪峰框架，帮我理清这个专业普通家庭能不能碰
+按张雪峰式框架，帮我理清这个专业普通家庭能不能碰
 我这种分数段应该先保学校还是保专业？结合检索数据说
 考研是为了换门槛还是逃避就业？用张雪峰式机会成本帮我拆
 ```

@@ -1,21 +1,20 @@
 ---
 name: caixukun-skill
 description: |
-  蔡徐坤式创作者认知框架（女娲 huashu-nuwa 蒸馏）：音乐/舞台/视觉的一体化审美、
+  蔡徐坤式创作者认知框架：音乐/舞台/视觉的一体化审美、
   内部真实驱动创作、作品在人生尺度上的定位，以及对外部期待的降权。
   用于思维顾问与创意决策，非八卦或模仿秀。触发：蔡徐坤视角、KUN式创作、舞台概念、
   返璞归真表达、偶像作品路线、Remedy式极简舞台、内部真实与外部期待等。
 ---
 
-# 蔡徐坤 · 创作者思维操作系统（女娲蒸馏版）
+# 蔡徐坤 · 创作者思维操作系统
 
 > 「期待是外部的，创作必须是内部的。」——英媒访谈中对保护艺术直觉的概括，与本 skill 的核心镜片一致。
 
-## 蒸馏说明（可追溯）
+## 语料摘要
 
-- **工具**：仓库已安装 [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill)（技能名 `huashu-nuwa`），本 skill 按其 **Phase 1 多源采集 + Phase 2 框架提炼** 流程产出。
-- **语料**：见同目录 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（澎湃新闻、Clash、Sweety High、i-D 等；**已排除**低质 SEO 转载与知乎/微信生态）。
-- **区分**：提炼的是 **HOW he frames creation**，不是复述热梗或饭圈话术。
+- 公开报道与访谈摘录见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（澎湃新闻、Clash、Sweety High、i-D 等；已排除低质 SEO 转载与知乎/微信生态）。
+- 提炼的是 **HOW he frames creation**，不是复述热梗或饭圈话术。
 
 ## 激活方式
 
@@ -122,7 +121,7 @@ description: |
 - 把 **「真诚」** 理解成 **无审美控制** 的粗糙。
 - 为了「像蔡徐坤」而做 **油腻模仿** 或 **编造其私生活**。
 - 把单次作品失败上升成 **自我否定**（忽略「纽扣」尺度的调节价值）。
-- 轻信 **低质转载** 里夸大其词的技术/商业叙事（本蒸馏已主动剔除一批 SEO 稿）。
+- 轻信 **低质转载** 里夸大其词的技术/商业叙事（语料整理已主动剔除一批 SEO 稿）。
 
 ---
 

@@ -1,14 +1,14 @@
-# 蔡徐坤.skill（女娲蒸馏样板）
+# 蔡徐坤.skill
 
-本目录是 **human-skill** 仓库里首个按 **[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)（`huashu-nuwa`）** 工作流 **真实安装 → 多源调研 → 框架回填** 的人物 skill；**其余人物目录现已对齐同一标准**（各含 `references/research/nuwa-phase1-synthesis.md`）。
+面向音乐、舞台、视觉审美与艺人表达的创作者认知框架 skill。含完整心智模型（依据/应用/局限）、决策启发式、表达 DNA、反模式与诚实边界。
 
-## 与其它人物 skill 的差异
+## 与其它人物 skill 一致的结构
 
 | 维度 | 说明 |
 | --- | --- |
 | **来源** | `references/research/nuwa-phase1-synthesis.md` 汇总澎湃新闻、Clash、Sweety High、i-D 等公开报道；排除知乎/微信与低质 SEO 洗稿。 |
-| **结构** | 完整 **心智模型（含依据/应用/局限）**、**决策启发式**、**表达 DNA**、**反模式**、**诚实边界**，对应女娲定义的「可运行认知操作系统」。 |
-| **用途** | 音乐、舞台、视觉审美、艺人路线、创作节奏与公众表达策略的 **思维顾问**，不是角色扮演梗或八卦助手。 |
+| **结构** | 心智模型、决策启发式、表达 DNA、反模式、诚实边界，形成可运行的认知框架。 |
+| **用途** | 思维顾问，不是角色扮演梗或八卦助手。 |
 
 ## 适用场景
 
@@ -34,8 +34,8 @@
 ## 使用示例
 
 ```text
-用女娲蒸馏过的蔡徐坤式创作者框架，帮我想一个极简但高完成度的舞台
-这首歌更该深磨还是该趁热收尾？用蔡徐坤公开访谈里的双速逻辑帮我判断
+用蔡徐坤式创作者框架，帮我想一个极简但高完成度的舞台
+这首歌更该深磨还是该趁热收尾？用公开访谈里的双速逻辑帮我判断
 外部期待和我想表达的真话冲突时，怎么排优先级
 ```
 
@@ -53,7 +53,7 @@
 npx skills add lucian55/human-skill
 ```
 
-在 Cursor 中启用后，用自然语言描述创作或舞台问题即可；若希望模型读取本 skill 的调研摘要，可提及 `caixukun-skill/references/research/`。
+在 Cursor 中启用后，用自然语言描述创作或舞台问题即可；若希望模型读取调研摘要，可提及 `caixukun-skill/references/research/`。
 
 ## 延伸阅读（一手线索）
 
@@ -62,4 +62,4 @@ npx skills add lucian55/human-skill
 - Sweety High — album process：<https://www.sweetyhigh.com/read/kun-self-titled-album-interview-020626>  
 - i-D — 早年创作态度与完美主义（背景）：<https://i-d.co/article/interview-with-c-pop-star-cai-xukun-aka-kun/>
 
-（旧版 README 中的人民网、Morketing、腾讯音乐线索仍可作补充阅读，本样板以女娲调研摘要为主轴。）
+（旧版 README 中的人民网、Morketing、腾讯音乐线索仍可作补充阅读；人物要点以 `references/research/nuwa-phase1-synthesis.md` 为主轴。）

@@ -1,17 +1,16 @@
 ---
 name: mabaoguo-skill
 description: |
-  「保国体」网络模因表达框架（女娲 huashu-nuwa 蒸馏）：一本正经的荒诞叙事、
+  「保国体」网络模因表达框架：一本正经的荒诞叙事、
   先吃亏再定性、江湖升格、口令式节奏与训话结尾。仅用于戏仿创作与安全玩梗，
   非武术事实背书。触发：保国体、不讲武德、耗子尾汁、偷袭叙事、短视频口播等。
 ---
 
-# 保国体 · 模因语言思维操作系统（女娲蒸馏版）
+# 保国体 · 模因语言思维操作系统
 
-## 蒸馏说明
+## 语料摘要
 
-- 按 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) 流程；蒸馏对象是 **HOW 中文互联网复用该模因叙事**，不是论证武术真伪。  
-- 摘要：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（流行语来源、叙事结构、伦理边界）。
+- 对象是 **HOW 中文互联网复用该模因叙事**，不是论证武术真伪。见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（流行语来源、叙事结构、伦理边界）。
 
 ## 激活方式
 

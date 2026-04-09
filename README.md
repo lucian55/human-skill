@@ -4,7 +4,7 @@
 
 `human-skill` 是一个人物认知框架仓库。
 
-这里的每个子目录对应一个独立人物 `.skill`。全人物目录均已按 **[nuwa-skill（huashu-nuwa）](https://github.com/alchaincyf/nuwa-skill)** 的思路做过 **公开语料调研摘要**（`references/research/nuwa-phase1-synthesis.md`）与 **SKILL 回填**，蔡徐坤为首批样板，其余人物已对齐同一标准。
+这里的每个子目录对应一个独立人物 `.skill`，含 `SKILL.md`、`README.md`，并推荐附带 `references/research/nuwa-phase1-synthesis.md`（公开语料摘录，便于追溯）。**人物 skill 的编写曾参考开源项目 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的多源调研思路**；除根目录本说明外，子目录正文不再重复提及该工具。
 
 目标不是复读名人语录，也不是做表层角色扮演，而是尽量提炼这个人物在公开材料里反复出现的：
 
@@ -18,14 +18,14 @@
 
 | 人物 | 领域 | 快速说明 |
 | --- | --- | --- |
-| [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 女娲蒸馏：就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
-| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 女娲蒸馏：内部真实、双速创作、极简×细节 |
-| [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 女娲蒸馏：改变品味、中国风作概念、混搭统一 |
-| [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 女娲蒸馏：保国体叙事结构（非武术背书） |
-| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 女娲蒸馏：《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
-| [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 女娲蒸馏：七字诀、三大铁律、复盘与长期叙事 |
-| [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 女娲蒸馏：理想主义张力、表达克制与访谈伦理 |
-| [六小龄童.skill](./liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 女娲蒸馏：改编底线、西游传播、孙悟空三重性、择一事终一生 |
+| [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
+| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 内部真实、双速创作、极简×细节 |
+| [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 改变品味、中国风作概念、混搭统一 |
+| [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 保国体叙事结构（非武术背书） |
+| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
+| [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 七字诀、三大铁律、复盘与长期叙事 |
+| [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 理想主义张力、表达克制与访谈伦理 |
+| [六小龄童.skill](./liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 改编底线、西游传播、孙悟空三重性、择一事终一生 |
 
 ## 安装
 
@@ -71,7 +71,7 @@ npx skills add lucian55/human-skill
 #### 使用示例
 
 ```text
-按女娲蒸馏版张雪峰框架，结合检索数据谈这个专业中位数去向
+按张雪峰式框架，结合检索数据谈这个专业中位数去向
 普通家庭选金融前先过哪几道资源关？
 用就业倒推法拆考研是不是在逃避就业
 ```
@@ -79,12 +79,12 @@ npx skills add lucian55/human-skill
 ### 蔡徐坤.skill
 
 > 适用于音乐创作、舞台表达、偶像发展、审美把控、作品打磨、公众表达等问题。  
-> 本人物目录已按 **nuwa-skill（huashu-nuwa）** 工作流做过一轮 **公开语料调研 + 认知框架回填**，详见 [`caixukun-skill/README.md`](./caixukun-skill/README.md)。
+> 详见 [`caixukun-skill/README.md`](./caixukun-skill/README.md)。
 
 #### 使用示例
 
 ```text
-用蔡徐坤式创作者框架（女娲蒸馏版）帮我想一个极简高完成度舞台
+用蔡徐坤式创作者框架帮我想一个极简高完成度舞台
 内部真实和外部期待冲突时怎么排优先级
 这首歌该深磨还是趁热收尾？用双速创作逻辑帮我判断
 ```
@@ -92,7 +92,7 @@ npx skills add lucian55/human-skill
 ### 周杰伦.skill
 
 > 适用于流行音乐创作、旋律与编曲、概念专辑、舞台与视觉表达、跨艺术融合、个人风格建立等问题。  
-> 女娲蒸馏版见 [`zhoujielun-skill/README.md`](./zhoujielun-skill/README.md)。
+> 详见 [`zhoujielun-skill/README.md`](./zhoujielun-skill/README.md)。
 
 #### 使用示例
 
@@ -105,7 +105,7 @@ npx skills add lucian55/human-skill
 ### 马保国.skill
 
 > 适用于夸张叙事、反差幽默、互联网梗体表达、自我辩护式发言、短视频人物口播风格等问题（**戏仿模因，非纪实**）。  
-> 女娲蒸馏版见 [`mabaoguo-skill/README.md`](./mabaoguo-skill/README.md)。
+> 详见 [`mabaoguo-skill/README.md`](./mabaoguo-skill/README.md)。
 
 #### 使用示例
 
@@ -131,7 +131,7 @@ npx skills add lucian55/human-skill
 ### 雷军.skill
 
 > 适用于创业方法论、产品定义、爆品策略、用户口碑、效率优化、商业演讲与管理复盘等问题。  
-> 女娲蒸馏版见 [`leijun-skill/README.md`](./leijun-skill/README.md)。
+> 详见 [`leijun-skill/README.md`](./leijun-skill/README.md)。
 
 #### 使用示例
 
@@ -144,7 +144,7 @@ npx skills add lucian55/human-skill
 ### 罗永浩.skill
 
 > 适用于产品经理视角、创业复盘、品牌表达、公众发言分寸、理想主义与商业现实的平衡等问题。  
-> 女娲蒸馏版见 [`luoyonghao-skill/README.md`](./luoyonghao-skill/README.md)。
+> 详见 [`luoyonghao-skill/README.md`](./luoyonghao-skill/README.md)。
 
 #### 使用示例
 
@@ -180,7 +180,7 @@ npx skills add lucian55/human-skill
 person-skill/
 ├── SKILL.md
 ├── README.md
-└── references/research/nuwa-phase1-synthesis.md   # 女娲 Phase 1 调研摘要（推荐）
+└── references/research/nuwa-phase1-synthesis.md   # 公开语料调研摘要（推荐）
 ```
 
 ## 重做标准

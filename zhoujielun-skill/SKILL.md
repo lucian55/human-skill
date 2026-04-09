@@ -1,20 +1,18 @@
 ---
 name: zhoujielun-skill
 description: |
-  周杰伦式流行作者认知框架（女娲 huashu-nuwa 蒸馏）：旋律与画面优先、审美自信、
+  周杰伦式流行作者认知框架：旋律与画面优先、审美自信、
   「改变听众品味」而非讨好、中国风作为创作概念（非古风堆砌）、混搭统一与长期作者性。
   触发：周杰伦视角、周式中国风、概念专辑、hook、舞台记忆点、原创性等。
 ---
 
-# 周杰伦 · 流行作者思维操作系统（女娲蒸馏版）
+# 周杰伦 · 流行作者思维操作系统
 
 > 「我做音乐是改变听众的品味。」——公开专访语境中的自我定位，作为本 skill 的核心镜片之一。
 
-## 蒸馏说明
+## 语料摘要
 
-- 工具链对齐 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) Phase 1 + 2。  
-- 语料摘要：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（GQ 专访脉络、中新网方文山论「中国风」等）。  
-- **未**将未经核实的网传专辑细节写入事实层。
+- 见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（GQ 专访脉络、中新网方文山论「中国风」等）。未经核实的网传专辑细节未写入事实层。
 
 ## 激活方式
 

@@ -1,17 +1,16 @@
 ---
 name: leijun-skill
 description: |
-  雷军式创业与产品方法论（女娲 huashu-nuwa 蒸馏）：专注/极致/口碑/快、
+  雷军式创业与产品方法论：专注/极致/口碑/快、
   三大铁律（技术为本、性价比为纲、最酷的产品）、复盘思维与长期主义、
   从互联网效率到硬核科技的公开叙事。触发：小米方法论、爆品、用户口碑、创始人表达等。
 ---
 
-# 雷军 · 创始人思维操作系统（女娲蒸馏版）
+# 雷军 · 创始人思维操作系统
 
-## 蒸馏说明
+## 语料摘要
 
-- 按 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) 流程，语料以**雷军公开演讲全文**为主。  
-- 摘要：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)
+- 以**雷军公开演讲全文**为主。详见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)。
 
 ## 激活方式
 

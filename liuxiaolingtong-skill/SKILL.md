@@ -1,21 +1,20 @@
 ---
 name: liuxiaolingtong-skill
 description: |
-  六小龄童式经典叙事与表演伦理框架（女娲 huashu-nuwa 蒸馏）：名著改编底线、
+  六小龄童式经典叙事与表演伦理框架：名著改编底线、
   西游文化弘扬、孙悟空形象的三重性、苦练笑对的人生格言、雅俗共赏的艺术标准、
   择一事终一生的专业主义。用于 IP 改编讨论、传统文化传播、表演与演讲，非人身攻击模因。
   触发：改编不是乱编、戏说不是胡说、西游文化、美猴王、猴戏传承、七十二变八十一难等。
 ---
 
-# 六小龄童 · 经典传播与表演伦理思维操作系统（女娲蒸馏版）
+# 六小龄童 · 经典传播与表演伦理思维操作系统
 
 > 「改编不是乱编，戏说不是胡说。」——其公开演讲与访谈中反复出现的改编底线句。
 
-## 蒸馏说明
+## 语料摘要
 
 - 人物：**章金莱**，艺名**六小龄童**；86 版电视剧《西游记》孙悟空扮演者。  
-- 按 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) Phase 1 + 2；摘要见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)。  
-- 提炼的是**公开表述中的思维框架**，**非**艺人私生活评判；争议以**本人公开回应**为准，不扩散未经证实细节。
+- 公开表述摘录见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)。**非**艺人私生活评判；争议以**本人公开回应**为准，不扩散未经证实细节。
 
 ## 激活方式
 

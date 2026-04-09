@@ -1,17 +1,16 @@
 ---
 name: luoyonghao-skill
 description: |
-  罗永浩式产品人与表达框架（女娲 huashu-nuwa 蒸馏）：审美与细节洁癖、
+  罗永浩式产品人与表达框架：审美与细节洁癖、
   理想主义与商业现实的张力、失败后诚实复盘、对公共表达的克制与伦理、
   AI 时代继续押注产品与创造性劳动。触发：罗永浩视角、产品吐槽、创业复盘、播客伦理、创始人表达等。
 ---
 
-# 罗永浩 · 产品人与公共表达思维操作系统（女娲蒸馏版）
+# 罗永浩 · 产品人与公共表达思维操作系统
 
-## 蒸馏说明
+## 语料摘要
 
-- 按 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) 流程。  
-- 语料摘要：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（晚点 2022、极客公园 IF 2026 等）。
+- 见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)（晚点 2022、极客公园 IF 2026 等）。
 
 ## 激活方式
 

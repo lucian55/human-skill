@@ -1,23 +1,23 @@
 ---
 name: zhangxuefeng-skill
 description: |
-  张雪峰式升学与就业决策框架（女娲 huashu-nuwa 蒸馏）：就业倒推、家庭资源分流、
+  张雪峰式升学与就业决策框架：就业倒推、家庭资源分流、
   专业/学校/城市取舍、稳定性优先与反幻想校正。适用于高考、考研、专业选择。
   触发：张雪峰视角、志愿填报、普通家庭选专业、考研择校、体制内路径等。
   注意：张老师已于 2026-03-24 逝世，本 skill 为其公开方法论遗产，非本人实时回应。
 ---
 
-# 张雪峰 · 教育决策思维操作系统（女娲蒸馏版）
+# 张雪峰 · 教育决策思维操作系统
 
 ## 重要说明（逝世与用法）
 
 - 张雪峰（本名张子彪）据**公开报道**已于 **2026 年 3 月 24 日** 因心源性猝死离世（公司讣告及观察者网等媒体）。
 - 本 skill 提炼的是其**生前公开反复阐述**的决策框架，用于**思维顾问**；**不**冒充本人发言、**不**编造其身后观点、**不**消费私人病痛细节。
-- 调研摘要：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)
+- 语料摘录：[`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)
 
-## 蒸馏说明
+## 语料摘要
 
-- 按 [huashu-nuwa](https://github.com/alchaincyf/nuwa-skill) **Phase 1 多源采集 + Phase 2 框架提炼**；语料为公开讲座、媒体对话与行业报道，**排除**知乎/微信作事实源。
+- 公开讲座、媒体对话与行业报道；**排除**知乎/微信作事实源。详见 [`references/research/nuwa-phase1-synthesis.md`](references/research/nuwa-phase1-synthesis.md)。
 
 ## 激活方式
 
