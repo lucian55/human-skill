@@ -36,18 +36,30 @@
 | [罗永浩.skill](./real-people/luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 理想主义张力、表达克制与访谈伦理 |
 | [六小龄童.skill](./real-people/liuxiaolingtong-skill/README.md) | 经典 IP / 表演 / 文化演讲 | 改编底线、西游传播、孙悟空三重性、择一事终一生 |
 | [卢本伟.skill](./real-people/lubenwei-skill/README.md) | 电竞 / 游戏直播（清洁版） | 前 LOL 职业/主播表达节奏；**禁止**辱骂教唆、开挂、冲人；合规红线见 README |
+| [罗翔.skill](./real-people/luoxiang-skill/README.md) | 法理科普 / 法哲学 | 案例—规范—价值、罪刑法定、圆圈正义；**非**法律意见 |
+| [李诞.skill](./real-people/lidan-skill/README.md) | 脱口秀 / 综艺表达 | 消解崇高、丧系清醒、圆场递台阶；**非** PUA |
+| [郭德纲.skill](./real-people/guodegang-skill/README.md) | 相声 / 喜剧节奏 | 三番四抖、捧逗尺寸；净版结构，**非**荤段模板 |
+| [余华.skill](./real-people/yuhua-skill/README.md) | 文学访谈 / 叙事语气 | 冷幽默、反励志、轻语气重细节 |
+| [马斯克.skill](./real-people/mashike-skill/README.md) | 创新叙事 / 工程乐观（公开言论轴） | 第一性原理、垂直整合；**非**投资建议、非造谣 |
+| [Naval Ravikant.skill](./real-people/naval-ravikant-skill/README.md) | 财富观 / 创作者战略（公开论述） | specific knowledge、杠杆、长期主义；**非**荐股 |
 
 ### 影视虚构（`fiction-tv/`）
 
 | 人物 | 领域 | 快速说明 |
 | --- | --- | --- |
 | [范德彪.skill](./fiction-tv/fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
+| [苏大强.skill](./fiction-tv/sudaqiang-skill/README.md) | 家庭剧 / 反面沟通 | 《都挺好》作系家长话术；**反面教材**，非操纵教程 |
+| [祁同伟.skill](./fiction-tv/qitongwei-skill/README.md) | 廉政叙事 / 反派弧光 | 《人民的名义》自怜式合理化；**禁止**腐败教唆 |
+| [高育良.skill](./fiction-tv/gaoyuliang-skill/README.md) | 廉政叙事 / 学者型反派 | 《人民的名义》辞令包装；**禁止**违法指导 |
+| [李云龙.skill](./fiction-tv/liyunlong-skill/README.md) | 战争剧 / 士气叙事 | 《亮剑》粗粝动员与义气；**禁止**军事教唆与暴力细节 |
 
 ### 动画虚构（`animation/`）
 
 | 人物 | 领域 | 快速说明 |
 | --- | --- | --- |
 | [懒羊羊.skill](./animation/lanyangyang-skill/README.md) | 子供向动画 / 喜剧人设 | 《喜羊羊与灰太狼》懒羊羊，低能耗动机与反差喜剧（虚构角色） |
+| [灰太狼.skill](./animation/huitailang-skill/README.md) | 子供向动画 / 反派萌 | 《喜羊羊与灰太狼》失败循环与执念喜剧；全年龄安全 |
+| [光头强.skill](./animation/guangtouqiang-skill/README.md) | 子供向动画 / 打工人母题 | 《熊出没》KPI 周旋与追逐喜剧；全年龄安全 |
 
 ## 安装
 
@@ -214,6 +226,156 @@ npx skills add lucian55/human-skill
 用清洁版「铺垫—反转」节奏写一段 LOL 团战前瞻，全年龄无脏字
 把电竞自信的叙事写成先抬势、再接得住结果的复盘口播
 给新人讲主播为什么不能教唆粉丝骂人（结合公开报道事实）
+```
+
+### 罗翔.skill
+
+> 适用于普法叙事、议论文、伦理两难讨论、程序正义与民意关系等问题；**非**个案法律咨询。  
+> 详见 [`luoxiang-skill/README.md`](./real-people/luoxiang-skill/README.md)。
+
+#### 使用示例
+
+```text
+用罗翔式三层结构拆网络暴力：事实、法律、道德
+用圆圈正义隐喻写「理想司法」作文结尾，不要煽动
+张三式课堂案例：虚构去识别化 + 构成要件讨论
+```
+
+### 李诞.skill
+
+> 适用于轻松演讲开场、冲突软化、脱口秀/综艺节奏、预期违背式段子；**非** PUA、非推卸责任。  
+> 详见 [`lidan-skill/README.md`](./real-people/lidan-skill/README.md)。
+
+#### 使用示例
+
+```text
+复盘会太僵，用李诞式先消解再落地写开场
+给冷场嘉宾写三句递台阶串词
+加班主题段子要反转，但不要侮辱同事
+```
+
+### 郭德纲.skill
+
+> 适用于对口/单口喜剧骨架、演讲包袱、三番四抖教学；**净版**，非荤段与人身攻击模板。  
+> 详见 [`guodegang-skill/README.md`](./real-people/guodegang-skill/README.md)。
+
+#### 使用示例
+
+```text
+用三番四抖写「甲方改需求」净版段子骨架
+解释捧逗各自负责什么，给极简对白 demo
+演讲里嵌一个自我调侃包袱再落回论点
+```
+
+### 余华.skill
+
+> 适用于访谈体回答、叙事语气、反励志创作谈、文学概念降维比喻。  
+> 详见 [`yuhua-skill/README.md`](./real-people/yuhua-skill/README.md)。
+
+#### 使用示例
+
+```text
+用余华式冷静细节写小说开头，少形容词
+访谈答年轻人焦虑：降维比喻，不要鸡汤
+把叙事视角用吃饭走路讲给非文学读者
+```
+
+### 马斯克.skill（公开言论轴）
+
+> 适用于创新拆解、硬科技路演语气、第一性原理思考练习；**非**投资建议、非伪造产品/推文。  
+> 详见 [`mashike-skill/README.md`](./real-people/mashike-skill/README.md)。
+
+#### 使用示例
+
+```text
+用第一性原理拆是否自研某模块，不要编造数据
+愿景开场 + 可验证里程碑 + 风险一句 + 免责声明
+解释垂直整合叙事何时成立、何时是组织负担
+```
+
+### Naval Ravikant.skill
+
+> 适用于职业战略、创作者杠杆思维、specific knowledge 自检；**非**荐股、非伪造语录。  
+> 详见 [`naval-ravikant-skill/README.md`](./real-people/naval-ravikant-skill/README.md)。
+
+#### 使用示例
+
+```text
+用 Naval 框架列三个可能的 specific knowledge 方向（假设性）
+给高中生解释劳动力杠杆 vs 代码/媒体杠杆，不要荐股
+写一段长期主义短文，可保留 leverage 等英文关键词
+```
+
+### 苏大强.skill
+
+> 适用于家庭剧剧本、沟通课反面案例、讽刺段子；**虚构**，《都挺好》；**非**操纵家人教程。  
+> 详见 [`sudaqiang-skill/README.md`](./fiction-tv/sudaqiang-skill/README.md)。
+
+#### 使用示例
+
+```text
+写三场戏：试探→道德绑架→子女反击（虚构）
+沟通课：一句作爹式甩锅为何伤人，给健康改写对比
+```
+
+### 祁同伟.skill
+
+> 适用于反派独白、廉政案例话术分析、《人民的名义》人物弧讨论；**禁止**腐败教唆。  
+> 详见 [`qitongwei-skill/README.md`](./fiction-tv/qitongwei-skill/README.md)。
+
+#### 使用示例
+
+```text
+话剧课反派独白骨架，要有代价收束，不要违法细节
+分析「自怜外包责任」话术，对照依法履职
+```
+
+### 高育良.skill
+
+> 适用于学者型反派对白、廉政话术识辩；**禁止**违法操作指导。  
+> 详见 [`gaoyuliang-skill/README.md`](./fiction-tv/gaoyuliang-skill/README.md)。
+
+#### 使用示例
+
+```text
+书房戏：大局辞令三段 + 被事实戳穿，不要违法细节
+培训：什么叫概念升格甩责，给合规沟通对照
+```
+
+### 李云龙.skill
+
+> 适用于战争剧士气台词骨架、团队动员的安全比喻、管理课反面案例；**禁止**军事教唆与暴力细节。  
+> 详见 [`liyunlong-skill/README.md`](./fiction-tv/liyunlong-skill/README.md)。
+
+#### 使用示例
+
+```text
+写净版攻坚动员广播稿，抗战剧风，不要武器细节
+用亮剑精神比喻创业冷启动，补合规边界提醒
+```
+
+### 灰太狼.skill
+
+> 适用于《喜羊羊与灰太狼》全年龄喜剧脚本、与懒羊羊动机对照；**非**暴力写实、非逐字抄录版权对白。  
+> 详见 [`huitailang-skill/README.md`](./animation/huitailang-skill/README.md)。
+
+#### 使用示例
+
+```text
+写发明翻车小剧场，退场用原创「再来」句式变体
+对比灰太狼主动执念 vs 懒羊羊被动节能
+```
+
+### 光头强.skill
+
+> 适用于《熊出没》式打工人母题、儿童追逐喜剧；全年龄安全，**非**危险劳作教唆。  
+> 详见 [`guangtouqiang-skill/README.md`](./animation/guangtouqiang-skill/README.md)。
+
+#### 使用示例
+
+```text
+接到李老板电话后的儿童向内心戏，结尾诚实或合作
+把周报压力写成熊出没式追逐喜剧，不映射真人
 ```
 
 ## 仓库约定
