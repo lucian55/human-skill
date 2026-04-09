@@ -14,6 +14,18 @@
 - 什么会反对
 - 什么边界不会越过
 
+## 已收录人物
+
+| 人物 | 领域 | 快速说明 |
+| --- | --- | --- |
+| [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 女娲蒸馏：就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
+| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 女娲蒸馏：内部真实、双速创作、极简×细节 |
+| [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 女娲蒸馏：改变品味、中国风作概念、混搭统一 |
+| [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 女娲蒸馏：保国体叙事结构（非武术背书） |
+| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 女娲蒸馏：《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
+| [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 女娲蒸馏：七字诀、三大铁律、复盘与长期叙事 |
+| [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 女娲蒸馏：理想主义张力、表达克制与访谈伦理 |
+
 ## 安装
 
 安装整个仓库：
@@ -47,18 +59,6 @@ npx skills add lucian55/human-skill
 | **边界在哪** | 诚实边界：哪些内容不能伪装成“本人会这么说” |
 
 这也是每个人物 skill 重写时默认遵守的标准。
-
-## 已收录人物
-
-| 人物 | 领域 | 快速说明 |
-| --- | --- | --- |
-| [张雪峰.skill](./zhangxuefeng-skill/README.md) | 教育 / 职业路径 | 女娲蒸馏：就业倒推、家庭分流、Agentic 检索协议；**已故说明见 README** |
-| [蔡徐坤.skill](./caixukun-skill/README.md) | 音乐 / 舞台 / 审美 | 女娲蒸馏：内部真实、双速创作、极简×细节 |
-| [周杰伦.skill](./zhoujielun-skill/README.md) | 流行音乐 / 创作 | 女娲蒸馏：改变品味、中国风作概念、混搭统一 |
-| [马保国.skill](./mabaoguo-skill/README.md) | 网络梗体 / 模因 | 女娲蒸馏：保国体叙事结构（非武术背书） |
-| [范德彪.skill](./fandebiao-skill/README.md) | 影视喜剧 / 方言梗 | 女娲蒸馏：《马大帅》彪哥，头衔膨胀与豪迈兜底（虚构角色） |
-| [雷军.skill](./leijun-skill/README.md) | 创业 / 产品 / 商业 | 女娲蒸馏：七字诀、三大铁律、复盘与长期叙事 |
-| [罗永浩.skill](./luoyonghao-skill/README.md) | 产品 / 创业 / 表达 | 女娲蒸馏：理想主义张力、表达克制与访谈伦理 |
 
 ## 人物示例
 
