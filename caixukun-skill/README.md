@@ -1,6 +1,6 @@
 # 蔡徐坤.skill（女娲蒸馏样板）
 
-本目录是 **human-skill** 仓库里第一个按 **[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)（`huashu-nuwa`）** 工作流 **真实安装 → 多源调研 → 框架回填** 的人物 skill，可作为后续批量蒸馏的版式参考。
+本目录是 **human-skill** 仓库里首个按 **[nuwa-skill](https://github.com/alchaincyf/nuwa-skill)（`huashu-nuwa`）** 工作流 **真实安装 → 多源调研 → 框架回填** 的人物 skill；**其余人物目录现已对齐同一标准**（各含 `references/research/nuwa-phase1-synthesis.md`）。
 
 ## 与其它人物 skill 的差异
 
