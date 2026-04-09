@@ -6,12 +6,7 @@
 
 ## 已收录人物
 
-当前仓库已经收录以下人物：
-
-- `zhangxuefeng-skill/`
-- `caixukun-skill/`
-- `zhoujielun-skill/`
-- `mabaoguo-skill/`
+[张雪峰](./zhangxuefeng-skill/README.md) / [蔡徐坤](./caixukun-skill/README.md) / [周杰伦](./zhoujielun-skill/README.md) / [马保国](./mabaoguo-skill/README.md)
 
 ### 张雪峰
 
@@ -28,6 +23,16 @@
 ### 马保国
 
 适用于夸张叙事、反差幽默、互联网梗体表达、自我辩护式发言、短视频人物口播风格等问题。
+
+## 安装方式
+
+安装整个仓库：
+
+```bash
+npx skills add lucian55/humen-skill
+```
+
+安装后，在支持 `.skill` 的环境里直接用人物名字触发即可。
 
 ## 如何使用
 
