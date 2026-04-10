@@ -90,23 +90,69 @@
 
 ## 安装
 
-安装整个仓库：
+### 安装整个仓库
 
 ```bash
 npx skills add lucian55/human-skill
 ```
 
-安装后，在支持 `.skill` 的环境里直接引用人物名字即可触发对应视角。
+### 只安装某一个 skill
+
+本仓库人物 skill 在子目录里，路径形如 `{分类}/{slug}-skill/`（例如 `real-people/leijun-skill`）。可用 **GitHub 简写 + 子路径** 只装该目录：
+
+```bash
+# 示例：只安装「雷军」skill（请按需替换分类与目录名）
+npx skills add lucian55/human-skill/real-people/leijun-skill
+```
+
+等价 **完整 URL**（可换 `main` 为其他分支）：
+
+```bash
+npx skills add https://github.com/lucian55/human-skill/tree/main/real-people/leijun-skill
+```
+
+若你本地已 `git clone` 本仓库，也可**直接指向该 skill 目录**（路径以 `./` 或绝对路径开头）：
+
+```bash
+cd /path/to/human-skill
+npx skills add ./real-people/leijun-skill
+```
+
+部分 CLI 版本支持在整仓地址后用 **`@` + `SKILL.md` frontmatter 里的 `name`** 筛选单个 skill（与 `name: leijun-skill` 一致），例如：
+
+```bash
+npx skills add lucian55/human-skill@leijun-skill
+```
+
+可先 **`--list`** 查看远端/本地会识别到哪些 skill，再决定用子路径还是 `@` 写法：
+
+```bash
+npx skills add lucian55/human-skill --list
+```
+
+安装后，在支持 `.skill` 的环境里即可按下方方式调用。
 
 ## 怎么调用
 
-通用写法：
+### 通用写法（整仓安装后，按人物名触发）
 
 ```text
 用 XXX 的视角回答这个问题
 切换到 XXX，帮我分析一下
 模仿 XXX 的思考方式，不要只学语气
 ```
+
+### 单独安装后的调用
+
+只装某一 skill 时，Agent 侧通常以该 skill 的 **`name` 字段**（见对应目录下 `SKILL.md` 顶部 YAML，如 `name: leijun-skill`）或人物常用名识别。可在提示里**显式带上 skill 名或人物名**，例如：
+
+```text
+按 leijun-skill / 雷军式框架复盘这次发布
+启用已安装的 zhangxuefeng-skill，用就业倒推法聊这个专业
+参考 lanyangyang-skill 写一段全年龄推脱反转台词
+```
+
+具体写法以你所用编辑器 / Agent 的 **Skills 面板说明**为准；若未自动关联，可把该 skill 目录下的 `SKILL.md` 路径或摘要一句写进对话作为上下文。
 
 ## 这个仓库蒸馏了什么
 
