@@ -1,24 +1,50 @@
 # human-skill
 
+[![GitHub stars](https://img.shields.io/github/stars/lucian55/human-skill?style=flat&logo=github)](https://github.com/lucian55/human-skill)
+
+面向 **Cursor / Agent** 使用者：装一条 skill，拿到的应是一套**可复用的判断与表达框架**（先问什么、怎么收敛、红线在哪），而不只是一段「像某人说话」的 prompt 皮肤。
+
 > 把人物语气蒸馏成 prompt 很容易。把人物的认知框架蒸馏成可运行的 `.skill`，才更有价值。
 
-`human-skill` 是一个人物认知框架仓库。
+**不是什么 / 是什么**
 
-每个人物对应一个独立 `*-skill/` 目录，按**语料性质**归在 [`real-people/`](./real-people/README.md)、[`fiction-tv/`](./fiction-tv/README.md) 或 [`animation/`](./animation/README.md) 下；内含 `SKILL.md`、`README.md`，并推荐附带 `references/research/nuwa-phase1-synthesis.md`（公开语料摘录，便于追溯）。**人物 skill 的编写曾参考开源项目 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) 的多源调研思路**；除根目录本说明外，子目录正文不再重复提及该工具。
+- **不是**：复读语录、表层角色扮演、替本人编造未公开观点。  
+- **不是**：省略合规与诚实边界；敏感人物 skill 内已写 **Guardrails**。  
+- **是**：在公开语料能支撑的前提下，尽量稳定复现——**怎么说话、怎么想、怎么判断、什么不做、边界在哪**（见下文 [五层蒸馏](#这个仓库蒸馏了什么)）。
 
-目标不是复读名人语录，也不是做表层角色扮演，而是尽量提炼这个人物在公开材料里反复出现的：
+每个人物对应一个 `*-skill/` 目录，按语料归在 [`real-people/`](./real-people/README.md)、[`fiction-tv/`](./fiction-tv/README.md)、[`animation/`](./animation/README.md)；含 `SKILL.md`、`README.md`，推荐附带 `references/research/nuwa-phase1-synthesis.md`。多源调研思路曾参考 [nuwa-skill](https://github.com/alchaincyf/nuwa-skill)，子目录正文不重复赘述。
 
-- 怎么说话
-- 怎么想问题
-- 怎么做判断
-- 什么会反对
-- 什么边界不会越过
+---
+
+## 30 秒上手
+
+```bash
+npx skills add lucian55/human-skill
+```
+
+```text
+用七字诀看我们团队现在缺的是口碑还是快
+```
+
+只装一个 skill 时（示例：[`leijun-skill`](./real-people/leijun-skill/)）：
+
+```bash
+npx skills add lucian55/human-skill/real-people/leijun-skill
+```
+
+更多安装方式与 `@name`、`--list` 等见下方 [安装](#安装)；调用写法见 [怎么调用](#怎么调用)。
+
+---
 
 ## 导航
 
-[目录分类](#目录分类) · [已收录人物](#已收录人物) · [安装](#安装) · [怎么调用](#怎么调用) · [五层蒸馏](#这个仓库蒸馏了什么) · [人物示例](#人物示例) · [仓库约定](#仓库约定) · [重做标准](#重做标准) · [赞助](#赞助)
+**常用：** [30 秒上手](#30-秒上手) · [精选速览](#精选速览) · [已收录人物](#已收录人物) · [安装](#安装) · [怎么调用](#怎么调用) · [赞助](#赞助)
+
+**全文：** [目录分类](#目录分类) · [五层蒸馏](#这个仓库蒸馏了什么) · [人物示例](#人物示例) · [仓库约定](#仓库约定) · [重做标准](#重做标准)
 
 ## 目录分类
+
+三类目录把语料性质分开，便于检索与新增时归类：
 
 | 分类 | 目录 | 说明 |
 | --- | --- | --- |
@@ -26,9 +52,38 @@
 | **影视虚构** | [`fiction-tv/`](./fiction-tv/README.md) | 真人影视剧中的虚构角色 |
 | **动画虚构** | [`animation/`](./animation/README.md) | 动画 / 系列片中的虚构角色 |
 
+```mermaid
+flowchart TB
+  H[human_skill_repo]
+  H --> R[real-people]
+  H --> F[fiction-tv]
+  H --> A[animation]
+```
+
+---
+
 ## 已收录人物
 
 **分段跳转：** [真实人物](#收录-真实人物) · [影视虚构](#收录-影视虚构) · [动画虚构](#收录-动画虚构)
+
+### 精选速览
+
+想快速试一条？下面 8 个覆盖「商业 / 法理 / 权谋喜剧 / 科幻 / 科普 / 情景喜剧 / 推理壳」等典型用法，点开链接有适用场景与示例句。
+
+| 试试 | 典型一问 |
+| --- | --- |
+| [雷军.skill](./real-people/leijun-skill/README.md) | 七字诀里我们现在最缺哪一字？ |
+| [罗翔.skill](./real-people/luoxiang-skill/README.md) | 把这事拆成事实、法律、道德三层 |
+| [甄嬛.skill](./fiction-tv/zhenhuan-skill/README.md) | 这句请安对谁听表层、对谁听里层？ |
+| [范德彪.skill](./fiction-tv/fandebiao-skill/README.md) | 项目黄了但辽北著名狠人不能输嘴 |
+| [刘慈欣.skill](./real-people/liucixin-skill/README.md) | 用思想实验壳设计一个原创两难 |
+| [无穷小亮.skill](./real-people/wuxiaoliang-skill/README.md) | 鉴定体脚本：误认、判型、一句人话结论 |
+| [佟湘玉.skill](./fiction-tv/tongxiangyu-skill/README.md) | 说教讲到一半被打脸怎么收 |
+| [柯南.skill](./animation/conan-skill/README.md) | 线索板 + 排除法，不要犯罪细节 |
+
+**完整索引：** 下列三张表为全部已收录人物（与上表重复处为同一 skill）。
+
+---
 
 <a id="收录-真实人物"></a>
 
@@ -87,6 +142,8 @@
 | [光头强.skill](./animation/guangtouqiang-skill/README.md) | 子供向动画 / 打工人母题 | 《熊出没》KPI 周旋与追逐喜剧；全年龄安全 |
 | [哪吒（魔童系）.skill](./animation/nezha-mo-tong-skill/README.md) | 国漫 / 少年英雄 | 魔童系列：标签战、亲情债、戏剧命题；**非**宗教教义、非危险模仿 |
 | [柯南.skill](./animation/conan-skill/README.md) | 少年推理动画 | 线索陈列、排除法、指证演说节奏；**虚构**；**禁止**犯罪细节与冒充刑侦 |
+
+---
 
 ## 安装
 
@@ -156,7 +213,17 @@ npx skills add lucian55/human-skill --list
 
 ## 这个仓库蒸馏了什么
 
-参考人物蒸馏类 skill 的组织方式，这个仓库默认会尽量提炼五层：
+参考人物蒸馏类 skill 的组织方式，这个仓库默认会尽量提炼五层（自表及里）：
+
+```mermaid
+flowchart TB
+  n1["怎么说话"]
+  n2["怎么想"]
+  n3["怎么判断"]
+  n4["什么不做"]
+  n5["边界在哪"]
+  n1 --> n2 --> n3 --> n4 --> n5
+```
 
 | 层次 | 说明 |
 | --- | --- |
@@ -168,9 +235,13 @@ npx skills add lucian55/human-skill --list
 
 这也是每个人物 skill 重写时默认遵守的标准。
 
+---
+
 ## 人物示例
 
-其余人物的适用场景与更多示例见 [已收录人物](#已收录人物) 表格中的链接，打开对应 `*-skill/README.md` 即可。下面仅举一例：
+**对比：** 若只说「用雷军口吻写一段话」，往往停在**语气模仿**；本仓库期望 Agent 先走 **First Questions、心智模型、反模式**（见各 `SKILL.md`），再落到表达，避免只有壳没有判断。
+
+其余人物的适用场景与更多示例见 [已收录人物](#已收录人物) 表格与 [精选速览](#精选速览)，打开对应 `*-skill/README.md` 即可。下面仅举一例：
 
 ### 雷军.skill
 
@@ -184,6 +255,8 @@ npx skills add lucian55/human-skill --list
 三大铁律里我们最虚的是哪一条
 用复盘三问拆这次发布为什么没打透
 ```
+
+---
 
 ## 仓库约定
 
@@ -207,11 +280,13 @@ real-people/                    # 或 fiction-tv/、animation/
 后续新增或重做人物时，默认遵循这些原则：
 
 1. **归类**：真实公众人物 → `real-people/`；真人剧影虚构角色 → `fiction-tv/`；动画虚构角色 → `animation/`。  
-2. 不做简单口头禅模仿，优先提炼认知框架。
-3. 不把未经证实的私生活、争议和传言写成事实。
-4. 每个人物都要有“表达 DNA”也要有“诚实边界”。
-5. README 要能回答“这个人物适合解决什么问题”和“怎么触发”。  
-6. SKILL.md 要能回答“先问什么、怎么判断、什么不做”。
+2. **认知优先**：不做简单口头禅模仿，优先提炼认知框架。  
+3. **事实纪律**：不把未经证实的私生活、争议和传言写成事实。  
+4. **双件套**：每个人物都要有「表达 DNA」也要有「诚实边界」。  
+5. **README**：要能回答「适合什么问题」和「怎么触发」。  
+6. **SKILL.md**：要能回答「先问什么、怎么判断、什么不做」。
+
+---
 
 ## 赞助
 
