@@ -81,7 +81,7 @@ flowchart TB
 | [佟湘玉.skill](./fiction-tv/tongxiangyu-skill/README.md) | 说教讲到一半被打脸怎么收 |
 | [柯南.skill](./animation/conan-skill/README.md) | 线索板 + 排除法，不要犯罪细节 |
 
-**完整索引：** 下列三张表为全部已收录人物（与上表重复处为同一 skill）。
+**完整索引：** 下列三张表为全部已收录人物（与上表重复处为同一 skill）。其中带「压缩蒸馏」骨架的条目结构与完整版一致，篇幅更短，便于快速挂载；细化论证请自行查权威材料。
 
 ---
 
@@ -114,6 +114,31 @@ flowchart TB
 | [无穷小亮.skill](./real-people/wuxiaoliang-skill/README.md) | 科普 / 辟谣 | 鉴定三段论、幽默降压、分类学落人话；**非**替代专家鉴定 |
 | [戴建业.skill](./real-people/daijianye-skill/README.md) | 古典诗词讲堂 | 人生代入、狂放幽默、口语回扣原句；**非**论文代写 |
 | [李安.skill](./real-people/liang-skill/README.md) | 电影导演 / 跨文化作者论 | 压抑与爆发、类型壳个人命题；**非**片场八卦 |
+| [李白.skill](./real-people/libai-skill/README.md) | 古典诗人 | 豪放与自我投射、酒与月意象、功名张力；非历史定论；不伪造诗句 |
+| [杜甫.skill](./real-people/dufu-skill/README.md) | 古典诗人 | 沉郁、家国与民生句法、律诗起承转合；不伪造诗文；哀悼体尊重 |
+| [苏轼.skill](./real-people/sushi-skill/README.md) | 古典诗人 | 旷达与自嘲、儒释道混搭比喻、生活哲学化；引文须核对版本 |
+| [余秋雨.skill](./real-people/yuqiuyu-skill/README.md) | 文化散文 | 宏大叙事与历史意象、游记式议论；非史学代写；不编造田野 |
+| [易中天.skill](./real-people/yizhongtian-skill/README.md) | 历史通俗 | 悬念切片、现代类比、口语讲史；区分戏说与学术结论 |
+| [白岩松.skill](./real-people/baiyansong-skill/README.md) | 新闻评论 | 克制提问、价值收束、公共理性口吻；非官方代言；不造谣 |
+| [黄执中.skill](./real-people/huangzhizhong-skill/README.md) | 辩论 | 重构议题、受身与升维、情绪命名；非诡辩教唆；不人身攻击 |
+| [朴树.skill](./real-people/pujian-skill/README.md) | 音乐人 | 内向真诚、少话多留白、生命与创作一体；不消费抑郁；非医疗建议 |
+| [崔健.skill](./real-people/cuijian-skill/README.md) | 摇滚 | 地下与现场感、隐喻与直白并置；非煽动违法 |
+| [周星驰.skill](./real-people/zhouxingchi-skill/README.md) | 喜剧作者 | 小人物逆袭节奏、夸张反差、悲情底；虚构创作谈；非私生活八卦 |
+| [郑渊洁.skill](./real-people/zheng-yuanjie-skill/README.md) | 儿童文学 | 童话寓言化社会规则、儿童视角正义；儿童安全；非恐吓教育 |
+| [韩寒.skill](./real-people/hanhan-skill/README.md) | 作家车手 | 反套路叙事、冷幽默、公共发言锋利；不伪造赛事实；尊重他人 |
+| [贾樟柯.skill](./real-people/jiazhangke-skill/README.md) | 电影作者 | 县城美学、时间停滞感、底层尊严镜头伦理；非纪实裁断 |
+| [王家卫.skill](./real-people/wangjiawei-skill/README.md) | 电影作者 | 时间错位、独白、暧昧与失落母题；非片场八卦 |
+| [巩俐.skill](./real-people/gongli-skill/README.md) | 表演作者 | 身体与气场、沉默戏、角色距离感；非替本人发言 |
+| [张艺谋.skill](./real-people/zhangyimou-skill/README.md) | 电影导演 | 集体仪式、色彩符号、群像调度；非官方活动内幕 |
+| [姜文.skill](./real-people/jiangwen-skill/README.md) | 电影作者 | 寓言暴力美学、台词密度、黑色幽默；禁止现实暴力教唆 |
+| [罗振宇.skill](./real-people/luozhenyu-skill/README.md) | 知识服务 | 长期主义叙事、概念产品化、故事化论证；非成功学保证；非荐股 |
+| [樊登.skill](./real-people/fandeng-skill/README.md) | 讲书人 | 拆书三段论、行动号召、温和说服；非替代原著阅读；非心理咨询 |
+| [易立竞.skill](./real-people/yilijing-skill/README.md) | 尖锐访谈 | 压迫式提问、沉默施压、事实钉刺；非羞辱；征得同意语境 |
+| [徐志胜.skill](./real-people/xuzhisheng-skill/README.md) | 喜剧 | 自嘲外貌与社会观察、节奏松、梗软着陆；不歧视群体 |
+| [许知远.skill](./real-people/xuzhiyuan-skill/README.md) | 知识分子访谈 | 反流量提问、尴尬坚持、思想史钩沉；不冒充节目 |
+| [陈铭.skill](./real-people/chenming-skill/README.md) | 辩论 | 上价值与共情平衡、爱的话语、学院派收束；非道德绑架 |
+| [贺炜.skill](./real-people/hewei-skill/README.md) | 体育解说 | 文学比喻嵌入赛况、克制激情、终场金句；非煽动球迷对立 |
+| [黄健翔.skill](./real-people/huangjianxiang-skill/README.md) | 体育解说 | 爆发式观点、节奏陡升、立场鲜明；非地域攻击；合规表达 |
 
 <a id="收录-影视虚构"></a>
 
@@ -130,6 +155,22 @@ flowchart TB
 | [王熙凤.skill](./fiction-tv/wangxifeng-skill/README.md) | 古典小说 / 管家话术 | 《红楼梦》笑里藏刀、利害裹体面；**虚构**；**禁止**职场 PUA |
 | [佟湘玉.skill](./fiction-tv/tongxiangyu-skill/README.md) | 情景喜剧 | 《武林外传》抠门与道义、说教打脸；**虚构**；净版、忌地域黑 |
 | [华妃.skill](./fiction-tv/huafei-skill/README.md) | 古装宫斗剧 / 外放反派 | 《甄嬛传》恩宠直球与悲剧核；**虚构**；**禁止**霸凌教唆 |
+| [林黛玉.skill](./fiction-tv/lin-daiyu-skill/README.md) | 古典虚构 | 《红楼梦》敏感多思、诗谶、自尊与脆弱；**虚构**；防抑郁消费 |
+| [贾宝玉.skill](./fiction-tv/jiabaoyu-skill/README.md) | 古典虚构 | 《红楼梦》情不情、反仕途经济、女儿崇拜叙事；**虚构** |
+| [鲁智深.skill](./fiction-tv/luzhishen-skill/README.md) | 古典虚构 | 《水浒传》粗中有细、义字当头；**禁止**可模仿暴力细节 |
+| [林冲.skill](./fiction-tv/linchong-skill/README.md) | 古典虚构 | 《水浒传》隐忍到爆发、体制内小人物悲剧；**虚构** |
+| [诸葛亮.skill](./fiction-tv/zhugeliang-skill/README.md) | 历史剧虚构 | 《三国演义》锦囊叙事、谨慎天才、话术与士气；**非**真实军事参谋 |
+| [曹操.skill](./fiction-tv/caocao-skill/README.md) | 历史剧虚构 | 《三国演义》奸雄雄辩、诗才与权谋台词；**虚构**反面教材边界 |
+| [杨过.skill](./fiction-tv/yangguo-skill/README.md) | 武侠虚构 | 《神雕侠侣》反叛与痴情、师徒伦理张力；**虚构** |
+| [小龙女.skill](./fiction-tv/xiaolongnv-skill/README.md) | 武侠虚构 | 《神雕侠侣》冷感极简、出世入世切换；**虚构** |
+| [郭靖.skill](./fiction-tv/guojing-skill/README.md) | 武侠虚构 | 《射雕英雄传》钝感大智、朴素正义；**虚构** |
+| [张无忌.skill](./fiction-tv/zhangwuji-skill/README.md) | 武侠虚构 | 《倚天屠龙记》优柔与仁心、多方夹缝；**虚构** |
+| [安欣.skill](./fiction-tv/anxin-skill/README.md) | 刑侦剧虚构 | 《狂飙》理想主义耗损、程序正义执念；**禁止**刑侦违法教程 |
+| [高启强.skill](./fiction-tv/gaoqiqiang-skill/README.md) | 反派虚构 | 《狂飙》底层爬升合理化、权力腐蚀；**反面教材**；**禁止**涉黑教唆 |
+| [盛明兰.skill](./fiction-tv/shengminglan-skill/README.md) | 宅斗虚构 | 《知否》藏锋借势、家族政治生存理性；**虚构**；**禁止**现实陷害 |
+| [苏明玉.skill](./fiction-tv/sumingyu-skill/README.md) | 都市剧虚构 | 《都挺好》原生家庭边界、职场硬壳与软芯；**虚构** |
+| [方鸿渐.skill](./fiction-tv/fanghongjian-skill/README.md) | 文学虚构 | 《围城》知识分子自嘲、文凭焦虑、婚姻讽喻；**虚构** |
+| [余则成.skill](./fiction-tv/yuzecheng-skill/README.md) | 谍战虚构 | 《潜伏》双面生活、冷幽默减压；**禁止**间谍违法教程 |
 
 <a id="收录-动画虚构"></a>
 
@@ -142,6 +183,16 @@ flowchart TB
 | [光头强.skill](./animation/guangtouqiang-skill/README.md) | 子供向动画 / 打工人母题 | 《熊出没》KPI 周旋与追逐喜剧；全年龄安全 |
 | [哪吒（魔童系）.skill](./animation/nezha-mo-tong-skill/README.md) | 国漫 / 少年英雄 | 魔童系列：标签战、亲情债、戏剧命题；**非**宗教教义、非危险模仿 |
 | [柯南.skill](./animation/conan-skill/README.md) | 少年推理动画 | 线索陈列、排除法、指证演说节奏；**虚构**；**禁止**犯罪细节与冒充刑侦 |
+| [美羊羊.skill](./animation/meiyangyang-skill/README.md) | 子供向动画 | 《喜羊羊》精致礼貌与闺蜜线；全年龄；勿逐字抄录版权对白 |
+| [熊大.skill](./animation/xiongda-skill/README.md) | 子供向动画 | 《熊出没》大哥责任、劝熊二；安全喜剧 |
+| [熊二.skill](./animation/xionger-skill/README.md) | 子供向动画 | 《熊出没》贪吃憨厚、跟班喜剧；安全喜剧 |
+| [胡图图.skill](./animation/hututu-skill/README.md) | 子供向动画 | 《大耳朵图图》童问世界、家庭温情；儿童安全 |
+| [猪八戒.skill](./animation/zhubajie-skill/README.md) | 喜剧虚构 | 西游题材贪懒馋与关键时刻担当；**非**宗教教义 |
+| [沙僧.skill](./animation/shaseng-skill/README.md) | 喜剧虚构 | 挑担沉默、和稀泥、团队粘合；全年龄 |
+| [唐僧.skill](./animation/tangseng-skill/README.md) | 喜剧虚构 | 戒律外壳、慈悲内核、唠叨节奏；**非**传教 |
+| [大娃.skill](./animation/huluwadawa-skill/README.md) | 子供向动画 | 《葫芦兄弟》力大莽撞与协作；**非**危险模仿 |
+| [樱木花道.skill](./animation/sakuragi-skill/README.md) | 少年漫 | 《灌篮高手》自大与成长、热血笨蛋；**虚构**；**非**暴力教唆 |
+| [坂田银时.skill](./animation/gintoki-skill/README.md) | 少年漫 | 《银魂》废柴壳武士芯、吐槽 meta；**虚构**；全年龄净版 |
 
 ---
 
