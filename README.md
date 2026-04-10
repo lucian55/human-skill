@@ -139,6 +139,46 @@ flowchart TB
 | [陈铭.skill](./real-people/chenming-skill/README.md) | 辩论 | 上价值与共情平衡、爱的话语、学院派收束；非道德绑架 |
 | [贺炜.skill](./real-people/hewei-skill/README.md) | 体育解说 | 文学比喻嵌入赛况、克制激情、终场金句；非煽动球迷对立 |
 | [黄健翔.skill](./real-people/huangjianxiang-skill/README.md) | 体育解说 | 爆发式观点、节奏陡升、立场鲜明；非地域攻击；合规表达 |
+| [王菲.skill](./real-people/wangfei-skill/README.md) | 歌手 / 气质 | 疏离气声、去技巧叙事、情爱作修养不作表演；非医疗；不编造访谈 |
+| [赵本山.skill](./real-people/zhaobenshan-skill/README.md) | 喜剧 / 乡土 | 东北伦理误会链、乡土人物一口立住、反转包袱；净版；忌荤段模板 |
+| [范伟.skill](./real-people/fanwei-skill/README.md) | 演员 / 喜剧 | 木讷外壳下的精算与善良、慢节奏包袱；角色与本人区分 |
+| [宋丹丹.skill](./real-people/songdandan-skill/README.md) | 喜剧 / 综艺 | 嘴快心软、生活段子高密度、代际戏剧化；忌人身攻击 |
+| [葛优.skill](./real-people/geyou-skill/README.md) | 演员 | 蔫坏冷面、话少留白、小人物体面与大谎；虚构创作谈 |
+| [梁朝伟.skill](./real-people/liangchaowei-skill/README.md) | 演员 | 眼神叙事、内向克制、沉默里爆发；非替本人发言 |
+| [那英.skill](./real-people/naying-skill/README.md) | 歌手 / 综艺 | 东北大姐直球、舞台 Diva、综艺金句；忌侮辱参与者 |
+| [汪峰.skill](./real-people/wangfeng-skill/README.md) | 摇滚 / 创作 | 宏大质问句、理想高音、公共发言硬壳；非煽动对立 |
+| [李健.skill](./real-people/lijian-singer-skill/README.md) | 歌手 | 知识分子浪漫、隐喻洁癖、慢语速金句；非人生导师保证 |
+| [毛不易.skill](./real-people/maobuyi-skill/README.md) | 唱作人 | 庸常卑微里的诗意、口语入歌、反鸡汤温柔；不消费抑郁 |
+| [薛之谦.skill](./real-people/xuezhiqian-skill/README.md) | 流行 / 综艺 | 情歌与综艺自解构、反差人设；忌造谣式营销叙事 |
+| [大张伟.skill](./real-people/dazhangwei-skill/README.md) | 音乐人 / 综艺 | 段子密度、解构崇高、丧燃一句落地；净版；非教唆 |
+| [沈腾.skill](./real-people/shenteng-skill/README.md) | 喜剧演员 | 小人物逆袭、伏笔 callback、悲情喜剧底；虚构喜剧结构 |
+| [贾玲.skill](./real-people/jialing-skill/README.md) | 导演 / 喜剧 | 亲情债喜剧壳、女性叙事与真诚收束；非消费逝者 |
+| [陈佩斯.skill](./real-people/chenpeisi-skill/README.md) | 小品 | 肢体语言主导、形体喜剧精密；致敬经典结构非抄袭 |
+| [窦文涛.skill](./real-people/douwentao-skill/README.md) | 谈话节目 | 圆桌松弛毒舌、文化八卦软化、夹枪不伤脸；非新闻定论 |
+| [马东.skill](./real-people/madong-skill/README.md) | 综艺制作人 | 赛制叙事、金句剪枝、辩论产品化；非操纵舆论教程 |
+| [蔡康永.skill](./real-people/caikangyong-skill/README.md) | 主持 / 作家 | 温柔刀提问、高情商收束、留面子的讽刺；非 PUA |
+| [金星.skill](./real-people/jinxing-skill/README.md) | 舞蹈家 / 主持 | 毒舌正义人设、身体隐喻、价值观直球；忌跨性别与身份羞辱 |
+| [杨澜.skill](./real-people/yanglan-skill/README.md) | 主持 | 精英访谈节奏、知性骨架、点题收束；非官方背书 |
+| [董卿.skill](./real-people/dongqing-skill/README.md) | 主持 / 文化节目 | 诗意串场、仪式感停顿、宏大题词私人化；非替机构发言 |
+| [成龙.skill](./real-people/jackie-chan-skill/README.md) | 动作明星 | 搏命喜剧动作、民族品牌叙事、自嘲大哥；禁止危险模仿；非武术教程 |
+| [李连杰.skill](./real-people/lilianjie-skill/README.md) | 动作 / 公益 | 武僧正气壳、后期佛系叙事转向；禁止搏击教程 |
+| [甄子丹.skill](./real-people/donnie-yen-skill/README.md) | 动作 | 咏春架势与家国叙事节奏、快剪爽点；禁止暴力教唆 |
+| [吴京.skill](./real-people/wujing-skill/README.md) | 演员 / 导演 | 主旋律英雄壳、直男效能叙事；非煽动仇恨 |
+| [黄渤.skill](./real-people/huangbo-skill/README.md) | 演员 | 高情商自嘲、市井小聪明、大时代夹缝；非替本人编造隐私 |
+| [徐峥.skill](./real-people/xuzheng-skill/README.md) | 导演 / 演员 | 荒诞公路喜剧、社会切口通俗悲剧；非医药建议 |
+| [宁浩.skill](./real-people/ninghao-skill/README.md) | 导演 | 多线咬合、黑色幽默、小人物链条反应；禁止犯罪教唆 |
+| [冯小刚.skill](./real-people/fengxiaogang-skill/README.md) | 导演 | 京味贺岁群像、怀旧滤镜与集体记忆；虚构创作 |
+| [陈凯歌.skill](./real-people/chenkaige-skill/README.md) | 导演 | 宏大史观与个体命运、仪式感镜头；非片场八卦 |
+| [梁文道.skill](./real-people/liangwendao-skill/README.md) | 文化评论 | 书店体温和左倾、引书搭桥、慢炖结论；非学术代写 |
+| [陈丹青.skill](./real-people/chendanqing-skill/README.md) | 美术评论 | 反教条美育、直言与骄傲、纽约往事对照；忌侮辱性人身攻击 |
+| [北岛.skill](./real-people/beidao-skill/README.md) | 诗人 | 冷意象、否定句诗学、流亡与记忆；不伪造诗句 |
+| [杨绛.skill](./real-people/yangjiang-skill/README.md) | 作家 / 翻译 | 克制温吞里的锋利、知识分子家常回忆；已故；尊重 |
+| [王小波.skill](./real-people/wangxiaobo-skill/README.md) | 作家 | 理性狂欢、反愚蠢、自由隐喻；成人语境；净版改写 |
+| [莫言.skill](./real-people/moyan-skill/README.md) | 作家 | 魔幻乡土、感官暴力与民间口语；虚构；非煽动 |
+| [琼瑶.skill](./real-people/qiongyao-skill/README.md) | 言情作家 | 强情绪对白、三角伦理、眼泪经济；虚构模板；忌情感操控教程 |
+| [古龙.skill](./real-people/gulong-skill/README.md) | 武侠作家 | 短句蒙太奇、浪子孤独、酒友女人；已故；非搏击教程 |
+| [蔡澜.skill](./real-people/cailan-skill/README.md) | 美食 / 生活家 | 享乐主义正当化、旅行搭子叙事；非过量饮酒医疗建议 |
+| [许子东.skill](./real-people/xuzidong-skill/README.md) | 学者 / 评论 | 材料与梗混搭、人物册页式短评；非伪造文献 |
 
 <a id="收录-影视虚构"></a>
 
@@ -171,6 +211,41 @@ flowchart TB
 | [苏明玉.skill](./fiction-tv/sumingyu-skill/README.md) | 都市剧虚构 | 《都挺好》原生家庭边界、职场硬壳与软芯；**虚构** |
 | [方鸿渐.skill](./fiction-tv/fanghongjian-skill/README.md) | 文学虚构 | 《围城》知识分子自嘲、文凭焦虑、婚姻讽喻；**虚构** |
 | [余则成.skill](./fiction-tv/yuzecheng-skill/README.md) | 谍战虚构 | 《潜伏》双面生活、冷幽默减压；**禁止**间谍违法教程 |
+| [至尊宝.skill](./fiction-tv/zhizunbao-skill/README.md) | 喜剧武侠虚构 | 月光宝盒时间循环、痞子真心、延迟满足的悲剧；虚构；忌低俗骚扰话术 |
+| [紫霞.skill](./fiction-tv/zixia-skill/README.md) | 喜剧武侠虚构 | 一剑定情、眼泪经济、理想主义恋爱壳；虚构 |
+| [许三多.skill](./fiction-tv/xusanduo-skill/README.md) | 军旅剧虚构 | 钝感坚持、不抛弃不放弃、草根成长；禁止军事违法教程 |
+| [袁朗.skill](./fiction-tv/yuanlang-skill/README.md) | 军旅剧虚构 | 老 A 冷血人设、试探与打磨、精英残酷浪漫；虚构 |
+| [安迪.skill](./fiction-tv/andi-huanlesong-skill/README.md) | 都市剧虚构 | 海归理性、职场风控、精英孤独；虚构 |
+| [曲筱绡.skill](./fiction-tv/quxiaoxiao-skill/README.md) | 都市剧虚构 | 精怪富二代、嘴毒心软、关系网打法；虚构；忌现实霸凌 |
+| [樊胜美.skill](./fiction-tv/fanshengmei-skill/README.md) | 都市剧虚构 | 原生家庭吸血、面子与里子撕裂；虚构；防抑郁消费 |
+| [明楼.skill](./fiction-tv/minglou-skill/README.md) | 谍战虚构 | 三面间谍、辞令层叠、亲情作人质；禁止间谍违法教程 |
+| [明台.skill](./fiction-tv/mingtai-skill/README.md) | 谍战虚构 | 公子成长、技能蒙太奇、信仰落地；禁止间谍违法教程 |
+| [汪曼春.skill](./fiction-tv/wangmanchun-skill/README.md) | 反派虚构 | 痴情反派、权力与占有欲、悲剧性疯批；反面教材 |
+| [梅长苏.skill](./fiction-tv/meichangsu-skill/README.md) | 古装权谋虚构 | 病弱智囊、雪冤叙事、棋子与棋手；虚构；禁止现实陷害 |
+| [靖王.skill](./fiction-tv/jingwang-skill/README.md) | 古装权谋虚构 | 耿直宗室、信任成本、笨办法正义；虚构 |
+| [范闲.skill](./fiction-tv/fanxian-skill/README.md) | 古装穿越虚构 | 嬉笑权谋、现代梗古代壳、父子棋局；虚构 |
+| [陈萍萍.skill](./fiction-tv/chenpingping-skill/README.md) | 古装权谋虚构 | 轮椅上的权、隐忍复仇、体制内的暗线；虚构 |
+| [王启年.skill](./fiction-tv/wangqinian-skill/README.md) | 古装喜剧虚构 | 碎嘴忠诚、贪小便宜大节、情报贩子喜剧；虚构 |
+| [司藤.skill](./fiction-tv/siteng-skill/README.md) | 奇幻剧虚构 | 女王傲娇、藤系依赖、民国线悬疑；虚构 |
+| [白浅.skill](./fiction-tv/baiqian-skill/README.md) | 仙侠虚构 | 神族恋、失忆与劫数、上神松弛感；虚构 |
+| [魏无羡.skill](./fiction-tv/weiwuxian-skill/README.md) | 仙侠虚构 | 不羁侠气、群嘲护短、悲剧性背负；虚构 |
+| [蓝忘机.skill](./fiction-tv/lanwangji-skill/README.md) | 仙侠虚构 | 端方克制、问灵十三载、规则内深情；虚构 |
+| [顾佳.skill](./fiction-tv/gujia-skill/README.md) | 都市剧虚构 | 精英妈妈、婚姻风险对冲、体面崩塌；虚构 |
+| [钟晓芹.skill](./fiction-tv/zhongxiaoqin-skill/README.md) | 都市剧虚构 | 普通人复位、婚姻试错、写作治愈；虚构 |
+| [韩商言.skill](./fiction-tv/hanshangyan-skill/README.md) | 都市剧虚构 | 电竞冷面、团队爹系、恋爱直球破冰；虚构 |
+| [佟年.skill](./fiction-tv/tongnian-skill/README.md) | 都市剧虚构 | 甜妹直球、学霸恋爱、软萌坚持；虚构 |
+| [周生辰.skill](./fiction-tv/zhoushengchen-skill/README.md) | 古装虚构 | 克制宿命、家国大于私情、悲剧美学；虚构 |
+| [时宜.skill](./fiction-tv/shiyi-skill/README.md) | 古装虚构 | 现代转世叙事、记忆与仪式、柔中带刚；虚构 |
+| [东方青苍.skill](./fiction-tv/dongfangqingcang-skill/README.md) | 仙侠虚构 | 魔尊情感觉醒、强弱反转、业火壳；虚构 |
+| [小兰花.skill](./fiction-tv/xiaolanhua-skill/README.md) | 仙侠虚构 | 软萌治愈、神女内核、误会甜虐；虚构 |
+| [凌不疑.skill](./fiction-tv/lingbuyi-skill/README.md) | 古装虚构 | 复仇将军、疯批克制、家族血债；虚构；禁止暴力教唆 |
+| [程少商.skill](./fiction-tv/chengshaoshang-skill/README.md) | 古装虚构 | 倔强成长、原生家庭拉扯、自我选择；虚构 |
+| [沈墨.skill](./fiction-tv/shenmo-skill/README.md) | 悬疑剧虚构 | 创伤反杀叙事、时代灰雾、钢琴意象；虚构；禁止犯罪模仿 |
+| [王阳.skill](./fiction-tv/wangyang-mcz-skill/README.md) | 悬疑剧虚构 | 诗意青年、理想主义陨落、父辈对照；虚构 |
+| [高启盛.skill](./fiction-tv/gaoqisheng-skill/README.md) | 反派虚构 | 疯批高智、亲情捆绑、暴力升级链；反面教材；禁止涉黑教唆 |
+| [侯亮平.skill](./fiction-tv/houliangping-skill/README.md) | 廉政虚构 | 程序正义脸、家庭戏减压、反腐话术；虚构 |
+| [李达康.skill](./fiction-tv/lidakang-skill/README.md) | 廉政虚构 | GDP 执念、窗口服务梗、政绩与人情张力；虚构 |
+| [胡一菲.skill](./fiction-tv/huyifei-skill/README.md) | 情景喜剧虚构 | 公寓女王、武力梗喜剧化、嘴硬心软；虚构；忌暴力模仿 |
 
 <a id="收录-动画虚构"></a>
 
@@ -193,6 +268,31 @@ flowchart TB
 | [大娃.skill](./animation/huluwadawa-skill/README.md) | 子供向动画 | 《葫芦兄弟》力大莽撞与协作；**非**危险模仿 |
 | [樱木花道.skill](./animation/sakuragi-skill/README.md) | 少年漫 | 《灌篮高手》自大与成长、热血笨蛋；**虚构**；**非**暴力教唆 |
 | [坂田银时.skill](./animation/gintoki-skill/README.md) | 少年漫 | 《银魂》废柴壳武士芯、吐槽 meta；**虚构**；全年龄净版 |
+| [沸羊羊.skill](./animation/feiyangyang-skill/README.md) | 子供向 | 暴躁直男式热心、竞争心、反差喜剧；全年龄；勿抄版权对白 |
+| [暖羊羊.skill](./animation/nuanyangyang-skill/README.md) | 子供向 | 班长型温柔、治愈担当、群体粘合；全年龄 |
+| [喜羊羊.skill](./animation/xiyangyang-skill/README.md) | 子供向 | 机智破局、冷笑话、团队主心骨；全年龄；勿抄对白 |
+| [红太狼.skill](./animation/hongtailang-skill/README.md) | 子供向 | 平底锅梗、家庭权力喜剧、反派妻；安全喜剧 |
+| [小灰灰.skill](./animation/xiaohuihui-skill/README.md) | 子供向 | 萌系第三方、狼羊模糊、童言破局；儿童安全 |
+| [二娃.skill](./animation/huluwa-erwa-skill/README.md) | 子供向 | 千里眼顺风耳、侦查与辅助；非危险模仿 |
+| [三娃.skill](./animation/huluwa-sanwa-skill/README.md) | 子供向 | 铜头铁臂、硬扛前锋；非危险模仿 |
+| [四娃.skill](./animation/huluwa-siwa-skill/README.md) | 子供向 | 火攻输出、急躁莽撞；非危险模仿 |
+| [五娃.skill](./animation/huluwa-wuwa-skill/README.md) | 子供向 | 水攻控场、吞吐喜剧；非危险模仿 |
+| [六娃.skill](./animation/huluwa-liuwa-skill/README.md) | 子供向 | 隐身偷袭、信息差喜剧；非危险模仿 |
+| [七娃.skill](./animation/huluwa-qiwa-skill/README.md) | 子供向 | 宝葫芦收一切、被洗脑反转；非危险模仿 |
+| [流川枫.skill](./animation/rukawa-skill/README.md) | 少年漫 | 面瘫球痴、单打美学、成长暗线；虚构 |
+| [赤木刚宪.skill](./animation/akagi-skill/README.md) | 少年漫 | 队长脊梁、篮板信仰、大猩猩梗自嘲；虚构 |
+| [三井寿.skill](./animation/mitsui-skill/README.md) | 少年漫 | 浪子回头、体力槽与三分救赎；虚构 |
+| [宫城良田.skill](./animation/miyagi-skill/README.md) | 少年漫 | 小个子速度、耳钉人设、电光第一步；虚构 |
+| [路飞.skill](./animation/luffy-skill/README.md) | 少年漫 | 自由宣言、橡胶脑洞战、伙伴羁绊；虚构；非暴力教唆 |
+| [索隆.skill](./animation/zoro-skill/README.md) | 少年漫 | 路痴反差、三刀流执念、副船长担当；虚构；非暴力教唆 |
+| [娜美.skill](./animation/nami-skill/README.md) | 少年漫 | 航海图天才、财迷喜剧壳、气候战；虚构 |
+| [灶门炭治郎.skill](./animation/tanjiro-skill/README.md) | 少年漫 | 温柔斩杀、嗅觉战、家族债；虚构；非暴力细节 |
+| [灶门祢豆子.skill](./animation/nezuko-skill/README.md) | 少年漫 | 竹筒萌点、鬼化反差、兄妹羁绊；虚构 |
+| [琦玉.skill](./animation/saitama-skill/README.md) | 少年漫 | 无敌无聊、一拳解构热血、超市券日常；虚构 |
+| [杰诺斯.skill](./animation/genos-skill/README.md) | 少年漫 | 改造人认真、战损美学、师徒忠犬；虚构 |
+| [野原新之助.skill](./animation/shinchan-skill/README.md) | 子供向 | 五岁黄腔净版化、想象力、家庭温情；全年龄净版 |
+| [小丸子.skill](./animation/maruko-skill/README.md) | 子供向 | 懒散可爱、家族群像、童年微小确幸；全年龄 |
+| [哆啦A梦.skill](./animation/doraemon-skill/README.md) | 子供向 | 道具脑洞、大雄成长线、温柔科幻；勿逐字抄录版权对白 |
 
 ---
 
