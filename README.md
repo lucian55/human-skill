@@ -54,6 +54,11 @@
 | [鲁豫.skill](./real-people/luyu-skill/README.md) | 电视访谈 / 播客 | 人生节点切片、短句接话、轻质疑推进；**非**恶搞羞辱 |
 | [鲁迅.skill](./real-people/luxun-skill/README.md) | 杂文 / 公共议论 | 揭弊与反讽、韧性行动；**已故**；**禁止**伪造引文 |
 | [余秀华.skill](./real-people/yuxiuhua-skill/README.md) | 当代诗 / 自述表达 | 身体与土地意象、反矫情；**禁止**残障侮辱与玩梗消费痛苦 |
+| [刘慈欣.skill](./real-people/liucixin-skill/README.md) | 科幻 / 思想实验叙事 | 宇宙尺度、文明博弈壳、技术扳机；**非**现实仇恨或战争教唆 |
+| [金庸.skill](./real-people/jinyong-skill/README.md) | 武侠文学 / 作者叙事 | 侠义谱系、门派政治、连载悬念；**已故**；**非**搏击教程 |
+| [无穷小亮.skill](./real-people/wuxiaoliang-skill/README.md) | 科普 / 辟谣 | 鉴定三段论、幽默降压、分类学落人话；**非**替代专家鉴定 |
+| [戴建业.skill](./real-people/daijianye-skill/README.md) | 古典诗词讲堂 | 人生代入、狂放幽默、口语回扣原句；**非**论文代写 |
+| [李安.skill](./real-people/liang-skill/README.md) | 电影导演 / 跨文化作者论 | 压抑与爆发、类型壳个人命题；**非**片场八卦 |
 
 <a id="收录-影视虚构"></a>
 
@@ -67,6 +72,9 @@
 | [高育良.skill](./fiction-tv/gaoyuliang-skill/README.md) | 廉政叙事 / 学者型反派 | 《人民的名义》辞令包装；**禁止**违法指导 |
 | [李云龙.skill](./fiction-tv/liyunlong-skill/README.md) | 战争剧 / 士气叙事 | 《亮剑》粗粝动员与义气；**禁止**军事教唆与暴力细节 |
 | [甄嬛.skill](./fiction-tv/zhenhuan-skill/README.md) | 古装权谋剧 / 潜台词 | 《甄嬛传》隐忍与双层听者；**虚构**；**禁止**现实陷害教唆 |
+| [王熙凤.skill](./fiction-tv/wangxifeng-skill/README.md) | 古典小说 / 管家话术 | 《红楼梦》笑里藏刀、利害裹体面；**虚构**；**禁止**职场 PUA |
+| [佟湘玉.skill](./fiction-tv/tongxiangyu-skill/README.md) | 情景喜剧 | 《武林外传》抠门与道义、说教打脸；**虚构**；净版、忌地域黑 |
+| [华妃.skill](./fiction-tv/huafei-skill/README.md) | 古装宫斗剧 / 外放反派 | 《甄嬛传》恩宠直球与悲剧核；**虚构**；**禁止**霸凌教唆 |
 
 <a id="收录-动画虚构"></a>
 
@@ -77,6 +85,8 @@
 | [懒羊羊.skill](./animation/lanyangyang-skill/README.md) | 子供向动画 / 喜剧人设 | 《喜羊羊与灰太狼》懒羊羊，低能耗动机与反差喜剧（虚构角色） |
 | [灰太狼.skill](./animation/huitailang-skill/README.md) | 子供向动画 / 反派萌 | 《喜羊羊与灰太狼》失败循环与执念喜剧；全年龄安全 |
 | [光头强.skill](./animation/guangtouqiang-skill/README.md) | 子供向动画 / 打工人母题 | 《熊出没》KPI 周旋与追逐喜剧；全年龄安全 |
+| [哪吒（魔童系）.skill](./animation/nezha-mo-tong-skill/README.md) | 国漫 / 少年英雄 | 魔童系列：标签战、亲情债、戏剧命题；**非**宗教教义、非危险模仿 |
+| [柯南.skill](./animation/conan-skill/README.md) | 少年推理动画 | 线索陈列、排除法、指证演说节奏；**虚构**；**禁止**犯罪细节与冒充刑侦 |
 
 ## 安装
 
