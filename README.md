@@ -203,6 +203,10 @@ flowchart TB
 | [王朔.skill](./real-people/wangshuo-skill/README.md) | 作家 / 京味 | 痞子真诚、反崇高、口语暴力美学；净版改写；忌侮辱弱势群体 |
 | [李彦宏.skill](./real-people/liyanhong-skill/README.md) | 互联网企业家 | 技术乐观、All in AI 叙事、公关危机话术；非替百度官方发言 |
 | [马化腾.skill](./real-people/mahuateng-skill/README.md) | 互联网企业家 | 低调闷声、连接一切、抄与超越梗（解构用）；非替腾讯承诺；忌造谣 |
+| [韩红.skill](./real-people/hanhong-skill/README.md) | 歌手 / 公益 | 高音情感爆发、救灾叙事、直球正义人设；非替基金会官方发言 |
+| [林俊杰.skill](./real-people/linjunjie-skill/README.md) | 歌手 / 创作 | 技术流情歌、游戏宅梗、自律创作人设；非替本人编造 |
+| [郑钦文.skill](./real-people/zhengqinwen-skill/README.md) | 网球 / 体育 | 攻击性底线、采访直球、新生代自信；非煽动对立 |
+| [董宇辉.skill](./real-people/dongyuhui-skill/README.md) | 主播 / 知识带货 | 小作文金句、共情带货、文化人壳；非替东方甄选官方发言 |
 
 <a id="收录-影视虚构"></a>
 
@@ -286,6 +290,9 @@ flowchart TB
 | [许仙.skill](./fiction-tv/xuxian-skill/README.md) | 神话剧虚构 | 懦弱书生、凡俗与仙恋张力；虚构 |
 | [容嬷嬷.skill](./fiction-tv/rongma-skill/README.md) | 反派虚构 | 针刑符号、忠仆反派、童年阴影喜剧化；反面教材；禁止暴力模仿 |
 | [小燕子.skill](./fiction-tv/xiaoyanzi-skill/README.md) | 古装喜剧虚构 | 民间丫头闯宫、反规矩活力、闯祸成长；虚构 |
+| [郭芙蓉.skill](./fiction-tv/guofurong-skill/README.md) | 情景喜剧虚构 | 排山倒海梗、侠女梦与现实抠门、成长嘴硬；虚构；忌暴力模仿 |
+| [吕秀才.skill](./fiction-tv/lvxiucai-skill/README.md) | 情景喜剧虚构 | 子曰嘴炮、读书人迂阔与意外高光；虚构 |
+| [白展堂.skill](./fiction-tv/baizantang-skill/README.md) | 情景喜剧虚构 | 盗圣反差、胆小负责、葵花点穴梗；虚构；忌暴力模仿 |
 
 <a id="收录-动画虚构"></a>
 
@@ -343,6 +350,9 @@ flowchart TB
 | [利威尔.skill](./animation/levi-skill/README.md) | 少年漫 | 兵长洁癖战力、矮个子反差、残酷抉择；虚构；非仇恨教唆 |
 | [黑崎一护.skill](./animation/ichigo-skill/README.md) | 少年漫 | 守护宣言、代打美学、成长型热血；虚构；非暴力教唆 |
 | [奇犽.skill](./animation/killua-skill/README.md) | 少年漫 | 刺客家族反差、甜食梗、友情的信任；虚构；非暴力教唆 |
+| [旗木卡卡西.skill](./animation/kakashi-skill/README.md) | 少年漫 | 迟到的老师、写轮眼悬念、慵懒靠谱；虚构；非暴力教唆 |
+| [绿谷出久.skill](./animation/midoriya-skill/README.md) | 少年漫 | 无个性起点、笔记英雄学、哭腔热血；虚构；非暴力教唆 |
+| [月野兔.skill](./animation/tsukino-usagi-skill/README.md) | 少女漫 | 爱哭变身、闺蜜线、代表月亮宣言；虚构；勿抄版权对白 |
 
 ---
 
