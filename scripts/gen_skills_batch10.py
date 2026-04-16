@@ -18,7 +18,7 @@ REAL_4: list[tuple[str, str, str, str, str, str, str]] = [
 FIC_3: list[tuple[str, str, str, str, str, str, str]] = [
     ("guofurong-skill", "fiction-tv", "郭芙蓉", "武林外传", "情景喜剧虚构", "排山倒海梗、侠女梦与现实抠门、成长嘴硬", "虚构；忌暴力模仿"),
     ("lvxiucai-skill", "fiction-tv", "吕秀才", "武林外传", "情景喜剧虚构", "子曰嘴炮、读书人迂阔与意外高光", "虚构"),
-    ("baizantang-skill", "fiction-tv", "白展堂", "武林外传", "情景喜剧虚构", "盗圣反差、胆小负责、葵花点穴梗", "虚构；忌暴力模仿"),
+    ("baizhantang-skill", "fiction-tv", "白展堂", "武林外传", "情景喜剧虚构", "盗圣反差、胆小负责、葵花点穴梗", "虚构；忌暴力模仿"),
 ]
 
 ANI_3: list[tuple[str, str, str, str, str, str, str]] = [

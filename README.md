@@ -292,7 +292,7 @@ flowchart TB
 | [小燕子.skill](./fiction-tv/xiaoyanzi-skill/README.md) | 古装喜剧虚构 | 民间丫头闯宫、反规矩活力、闯祸成长；虚构 |
 | [郭芙蓉.skill](./fiction-tv/guofurong-skill/README.md) | 情景喜剧虚构 | 排山倒海梗、侠女梦与现实抠门、成长嘴硬；虚构；忌暴力模仿 |
 | [吕秀才.skill](./fiction-tv/lvxiucai-skill/README.md) | 情景喜剧虚构 | 子曰嘴炮、读书人迂阔与意外高光；虚构 |
-| [白展堂.skill](./fiction-tv/baizantang-skill/README.md) | 情景喜剧虚构 | 盗圣反差、胆小负责、葵花点穴梗；虚构；忌暴力模仿 |
+| [白展堂.skill](./fiction-tv/baizhantang-skill/README.md) | 情景喜剧虚构 | 盗圣反差、胆小负责、葵花点穴梗；虚构；忌暴力模仿 |
 
 <a id="收录-动画虚构"></a>
 

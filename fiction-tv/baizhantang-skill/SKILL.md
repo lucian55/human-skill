@@ -1,5 +1,5 @@
 ---
-name: baizantang-skill
+name: baizhantang-skill
 description: |
   白展堂（情景喜剧虚构）认知与表达框架（压缩蒸馏）：盗圣反差、胆小负责、葵花点穴梗
   触发：武林外传 等。虚构；忌暴力模仿

@@ -11,12 +11,12 @@
 
 ```text
 用 白展堂 式框架写一段 200 字评论骨架，不要伪造引语
-按 baizantang-skill 的 First Questions 先问清场景再写对白
+按 baizhantang-skill 的 First Questions 先问清场景再写对白
 ```
 
 ## 安装
 
 ```bash
-npx skills add lucian55/human-skill/fiction-tv/baizantang-skill
+npx skills add lucian55/human-skill/fiction-tv/baizhantang-skill
 ```
 
